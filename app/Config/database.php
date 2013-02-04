@@ -68,7 +68,6 @@ class DATABASE_CONFIG {
         'password' => '21325521',
         'database' => 'db138565_tr2012',
         'prefix' => '',
-        //'encoding' => 'utf8',
     );
 
 	 var $test = array(
