@@ -162,3 +162,33 @@ Stack Trace:
 #9 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #10 /Applications/XAMPP/xamppfiles/htdocs/iktrust/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #11 {main}
+2013-02-04 12:11:39 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 64]
+2013-02-04 12:11:39 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 12:11:46 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 64]
+2013-02-04 12:11:46 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 12:11:46 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 64]
+2013-02-04 12:11:46 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
