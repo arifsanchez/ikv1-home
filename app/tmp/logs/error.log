@@ -1,0 +1,164 @@
+2013-02-04 10:36:51 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT.com/app/Config/database.php, line 64]
+2013-02-04 10:36:51 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT.com/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT.com/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT.com/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT.com/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:36:53 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT.com/app/Config/database.php, line 64]
+2013-02-04 10:36:53 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT.com/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT.com/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT.com/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT.com/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:39:08 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT/app/Config/database.php, line 64]
+2013-02-04 10:39:08 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:39:25 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT/app/Config/database.php, line 64]
+2013-02-04 10:39:25 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:39:25 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT/app/Config/database.php, line 64]
+2013-02-04 10:39:25 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:39:25 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT/app/Config/database.php, line 64]
+2013-02-04 10:39:25 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:39:26 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT/app/Config/database.php, line 64]
+2013-02-04 10:39:26 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 10:51:04 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/IKT/app/Config/database.php, line 64]
+2013-02-04 10:51:04 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /IKT/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/IKT/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 11:01:18 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/ikt/app/Config/database.php, line 64]
+2013-02-04 11:01:18 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /ikt/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikt/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikt/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikt/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 11:01:49 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/ikt/app/Config/database.php, line 64]
+2013-02-04 11:01:49 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /ikt/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikt/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikt/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikt/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 11:03:39 Error: Fatal Error (4): syntax error, unexpected T_STRING, expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 64]
+2013-02-04 11:03:39 Error: [FatalErrorException] syntax error, unexpected T_STRING, expecting ')'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 64, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-04 11:08:33 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(364): CakePlugin::path('DebugKit')
+#1 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(225): App::pluginPath('DebugKit')
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(542): App::path('Controller/Comp...', 'DebugKit')
+#3 [internal function]: App::load('ToolbarComponen...')
+#4 [internal function]: spl_autoload_call('ToolbarComponen...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/ComponentCollection.php(99): class_exists('ToolbarComponen...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/ComponentCollection.php(52): ComponentCollection->load('DebugKit.Toolba...', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/Controller.php(634): ComponentCollection->init(Object(PagesController))
+#8 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(182): Controller->constructClasses()
+#9 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/XAMPP/xamppfiles/htdocs/iktrust/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-02-04 11:08:41 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(364): CakePlugin::path('DebugKit')
+#1 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(225): App::pluginPath('DebugKit')
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(542): App::path('Controller/Comp...', 'DebugKit')
+#3 [internal function]: App::load('ToolbarComponen...')
+#4 [internal function]: spl_autoload_call('ToolbarComponen...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/ComponentCollection.php(99): class_exists('ToolbarComponen...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/ComponentCollection.php(52): ComponentCollection->load('DebugKit.Toolba...', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/Controller.php(634): ComponentCollection->init(Object(PagesController))
+#8 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(182): Controller->constructClasses()
+#9 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/XAMPP/xamppfiles/htdocs/iktrust/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2013-02-04 11:09:19 Error: [MissingPluginException] Plugin DebugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DebugKit',
+)
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(364): CakePlugin::path('DebugKit')
+#1 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(225): App::pluginPath('DebugKit')
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(542): App::path('Controller/Comp...', 'DebugKit')
+#3 [internal function]: App::load('ToolbarComponen...')
+#4 [internal function]: spl_autoload_call('ToolbarComponen...')
+#5 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/ComponentCollection.php(99): class_exists('ToolbarComponen...')
+#6 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/ComponentCollection.php(52): ComponentCollection->load('DebugKit.Toolba...', Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Controller/Controller.php(634): ComponentCollection->init(Object(PagesController))
+#8 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(182): Controller->constructClasses()
+#9 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/XAMPP/xamppfiles/htdocs/iktrust/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
