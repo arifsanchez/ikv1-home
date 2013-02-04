@@ -61,15 +61,15 @@
 class DATABASE_CONFIG {
 
 	var $default = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'root',
-		'password' => '',
-		'database' => 'txe4',
-		'prefix' => '',
-		//'encoding' => 'utf8',
-	);
+        'datasource' => 'Database/Mysql',
+        'persistent' => false,
+        'host' => 'external-db.s138565.gridserver.com',
+        'login' => 'db138565_arif',
+        'password' => '21325521',
+        'database' => 'db138565_tr2012',
+        'prefix' => '',
+        //'encoding' => 'utf8',
+    );
 
 	 var $test = array(
 		'datasource' => 'Database/Mysql',
