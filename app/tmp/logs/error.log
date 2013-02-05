@@ -493,3 +493,63 @@ Stack Trace:
 #14 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #15 /Applications/XAMPP/xamppfiles/htdocs/iktrust/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #16 {main}
+2013-02-05 09:38:21 Error: Fatal Error (4): syntax error, unexpected '(', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 82]
+2013-02-05 09:38:21 Error: [FatalErrorException] syntax error, unexpected '(', expecting ')'
+Request URL: /iktrust/allUsers
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 09:38:23 Error: Fatal Error (4): syntax error, unexpected '(', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 82]
+2013-02-05 09:38:23 Error: [FatalErrorException] syntax error, unexpected '(', expecting ')'
+Request URL: /iktrust/allUsers
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 09:38:25 Error: Fatal Error (4): syntax error, unexpected '(', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 82]
+2013-02-05 09:38:25 Error: [FatalErrorException] syntax error, unexpected '(', expecting ')'
+Request URL: /iktrust/allUsers
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 09:38:49 Error: Fatal Error (4): syntax error, unexpected '(', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 82]
+2013-02-05 09:38:49 Error: [FatalErrorException] syntax error, unexpected '(', expecting ')'
+Request URL: /iktrust/allUsers
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 09:40:26 Error: Fatal Error (4): syntax error, unexpected '(', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 82]
+2013-02-05 09:40:26 Error: [FatalErrorException] syntax error, unexpected '(', expecting ')'
+Request URL: /iktrust/allUsers
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 09:40:34 Error: Fatal Error (4): syntax error, unexpected '(', expecting ')' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/Config/database.php, line 82]
+2013-02-05 09:40:34 Error: [FatalErrorException] syntax error, unexpected '(', expecting ')'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 82)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 82, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

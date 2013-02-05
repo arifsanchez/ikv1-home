@@ -199,16 +199,20 @@
 /**
  * A random string used in security hashing methods.
  */
-	#Configure::write('Security.salt', 'DXTYshjhfxjhxhte57uryTJDrjyhdfdhKJgigjkhFkfkYFKjfUubWwvniR2G0FgaC9mi');
+	#Configure::write('Security.salt', '320a34b6add29edcd04eb724b756b729780018c3a10a74263d9');
 
 /**
  * A random numeric string (digits only) used to encrypt/decrypt strings.
  */
-	#Configure::write('Security.cipherSeed', '7685930965745354249983276401827538126749683645');
+	#Configure::write('Security.cipherSeed', '9309652198451298352871312763745355');
 
+if($_SERVER['SERVER_NAME'] == 'localhost'){
+	Configure::write('Security.salt', '320a34b6add29edcd04eb724b756b729780018c3a10a74263d9');
+    Configure::write('Security.cipherSeed', '9309652198451298352871312763745355');
+} else {
 	Configure::write('Security.salt', getenv('SECURITY_SALT'));
     Configure::write('Security.cipherSeed', getenv('CIPHER_SEED'));
-
+}
 /**
  * Apply timestamps with the last modified time to static assets (js, css, images).
  * Will append a querystring parameter containing the time the file was modified. This is
