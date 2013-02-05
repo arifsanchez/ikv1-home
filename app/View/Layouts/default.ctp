@@ -16,20 +16,27 @@
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  */
 
-$cakeDescription = __d('cake_dev', 'IK Trust : Cabinet');
+$Description = __d('cake_dev', 'IK Trust : Cabinet');
 ?>
 <!DOCTYPE html>
 <html>
 <head>
+	<script language="javascript">
+	var urlForJs="<?php echo SITE_URL ?>";
+    </script>
 	<?php echo $this->Html->charset(); ?>
 	<title>
-		<?php echo $cakeDescription ?>:
+		<?php echo $Description ?>:
 		<?php echo $title_for_layout; ?>
 	</title>
 	<?php
 		echo $this->Html->meta('icon');
 
 		echo $this->Html->css('cake.generic');
+
+		echo $this->Html->css('/usermgmt/css/umstyle.css?q='.QRDN);
+	    echo $this->Html->script('/usermgmt/js/jquery-1.7.2.min.js');
+	    echo $this->Html->script('/usermgmt/js/umscript.js?q='.QRDN);
 
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
@@ -39,21 +46,14 @@ $cakeDescription = __d('cake_dev', 'IK Trust : Cabinet');
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link($cakeDescription, 'http://cakephp.org'); ?></h1>
+			<h1><?php echo $this->Html->link($Description, 'http://iktrust.com'); ?></h1>
 		</div>
 		<div id="content">
-
-			<?php echo $this->Session->flash(); ?>
-
+			<div class="messageHolder"><?php echo $this->Session->flash(); ?></div>
 			<?php echo $this->fetch('content'); ?>
 		</div>
 		<div id="footer">
-			<?php echo $this->Html->link(
-					$this->Html->image('cake.power.gif', array('alt' => $cakeDescription, 'border' => '0')),
-					'http://www.cakephp.org/',
-					array('target' => '_blank', 'escape' => false)
-				);
-			?>
+
 		</div>
 	</div>
 </body>

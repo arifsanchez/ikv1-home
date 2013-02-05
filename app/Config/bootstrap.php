@@ -88,7 +88,12 @@ Cache::config('default', array('engine' => 'File'));
  * ));
  */
 
-CakePlugin::load('DebugKit');
+
+CakePlugin::load(array(
+	'DebugKit',
+	'Usermgmt' => array('routes' => true, 'bootstrap' => true)
+));
+
 
 Configure::write('Dispatcher.filters', array(
 	'AssetDispatcher',

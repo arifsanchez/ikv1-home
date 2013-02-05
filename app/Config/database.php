@@ -60,6 +60,7 @@
  */
 class DATABASE_CONFIG {
 	
+	/*
 	public $default;
 	
 	function __construct() {
@@ -74,4 +75,17 @@ class DATABASE_CONFIG {
 			'encoding' => 'utf8',
 		);
 	}
+	*/
+
+	var $default = array(
+		'datasource' => 'Database/Mysql',
+		'persistent' => false,
+		'host' => 'instance38153.db.xeround.com',
+		'login' => 'app11602012',
+		'password' => 'oipolloi88',
+		'database' => 'app11602012',
+		'prefix' => '',
+		'port' => '6199',
+		'encoding' => 'utf8',
+	);
 }
