@@ -192,3 +192,12 @@ Stack Trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2013-02-05 05:44:33 Error: [MissingControllerException] Controller class PageController could not be found.
+Exception Attributes: array (
+  'class' => 'PageController',
+  'plugin' => NULL,
+)
+Request URL: /iktrust/page/home
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
