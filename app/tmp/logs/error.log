@@ -553,3 +553,33 @@ Stack Trace:
 #3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
 #4 [internal function]: App::shutdown()
 #5 {main}
+2013-02-05 19:06:44 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/View/Layouts/default.ctp, line 58]
+2013-02-05 19:06:44 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 19:07:05 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/View/Layouts/default.ctp, line 58]
+2013-02-05 19:07:05 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-02-05 19:07:05 Error: Fatal Error (4): syntax error, unexpected '<' in [/Applications/XAMPP/xamppfiles/htdocs/iktrust/app/View/Layouts/default.ctp, line 58]
+2013-02-05 19:07:05 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /iktrust/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/X...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/X...', 58, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/iktrust/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

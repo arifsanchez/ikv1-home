@@ -55,6 +55,7 @@ $Description = __d('cake_dev', 'IK Trust : Cabinet');
 						echo $this->Html->link(__("Sign In"),"/login").' | ';
 						echo $this->Html->link(__("Register"),"/register");
 					}
+				?>
 			</h1>
 		</div>
 		<div id="content">

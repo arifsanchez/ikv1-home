@@ -19,29 +19,21 @@ if (!Configure::read('debug')):
 	throw new NotFoundException();
 endif;
 App::uses('Debugger', 'Utility');
-?>
 
-<h2><?php echo __d('cake_dev', 'Release Notes for CakePHP %s.', Configure::version()); ?></h2>
-<a href="http://cakephp.org/changelogs/<?php echo Configure::version(); ?>"><?php echo __d('cake_dev', 'Read the changelog'); ?> </a>
-<?php
 if (Configure::read('debug') > 0):
 	Debugger::checkSecurityKeys();
 endif;
 ?>
-<p id="url-rewriting-warning" style="background-color:#e32; color:#fff;">
-	<?php echo __d('cake_dev', 'URL rewriting is not properly configured on your server.'); ?>
-	1) <a target="_blank" href="http://book.cakephp.org/2.0/en/installation/advanced-installation.html#apache-and-mod-rewrite-and-htaccess" style="color:#fff;">Help me configure it</a>
-	2) <a target="_blank" href="http://book.cakephp.org/2.0/en/development/configuration.html#cakephp-core-configuration" style="color:#fff;">I don't / can't use URL rewriting</a>
-</p>
+
 <p>
 <?php
 	if (version_compare(PHP_VERSION, '5.2.8', '>=')):
 		echo '<span class="notice success">';
-			echo __d('cake_dev', 'Your version of PHP is 5.2.8 or higher.');
+			echo __d('cake_dev', 'PHP is 5.2.8 or higher.');
 		echo '</span>';
 	else:
 		echo '<span class="notice">';
-			echo __d('cake_dev', 'Your version of PHP is too low. You need PHP 5.2.8 or higher to use CakePHP.');
+			echo __d('cake_dev', 'PHP is too low. You need PHP 5.2.8 or higher to use CakePHP.');
 		echo '</span>';
 	endif;
 ?>
@@ -50,11 +42,11 @@ endif;
 	<?php
 		if (is_writable(TMP)):
 			echo '<span class="notice success">';
-				echo __d('cake_dev', 'Your tmp directory is writable.');
+				echo __d('cake_dev', 'Tmp directory is writable.');
 			echo '</span>';
 		else:
 			echo '<span class="notice">';
-				echo __d('cake_dev', 'Your tmp directory is NOT writable.');
+				echo __d('cake_dev', 'Tmp directory is NOT writable.');
 			echo '</span>';
 		endif;
 	?>
@@ -64,7 +56,7 @@ endif;
 		$settings = Cache::settings();
 		if (!empty($settings)):
 			echo '<span class="notice success">';
-				echo __d('cake_dev', 'The %s is being used for core caching. To change the config edit APP/Config/core.php ', '<em>'. $settings['engine'] . 'Engine</em>');
+				echo __d('cake_dev', 'The %s is being used for core caching.', '<em>'. $settings['engine'] . 'Engine</em>');
 			echo '</span>';
 		else:
 			echo '<span class="notice">';
@@ -73,23 +65,7 @@ endif;
 		endif;
 	?>
 </p>
-<p>
-	<?php
-		$filePresent = null;
-		if (file_exists(APP . 'Config' . DS . 'database.php')):
-			echo '<span class="notice success">';
-				echo __d('cake_dev', 'Your database configuration file is present.');
-				$filePresent = true;
-			echo '</span>';
-		else:
-			echo '<span class="notice">';
-				echo __d('cake_dev', 'Your database configuration file is NOT present.');
-				echo '<br/>';
-				echo __d('cake_dev', 'Rename APP/Config/database.php.default to APP/Config/database.php');
-			echo '</span>';
-		endif;
-	?>
-</p>
+
 <?php
 if (isset($filePresent)):
 	App::uses('ConnectionManager', 'Model');
@@ -110,11 +86,11 @@ if (isset($filePresent)):
 	<?php
 		if ($connected && $connected->isConnected()):
 			echo '<span class="notice success">';
-	 			echo __d('cake_dev', 'Cake is able to connect to the database.');
+	 			echo __d('cake_dev', 'IKTrust Cabinet is able to connect to the database.');
 			echo '</span>';
 		else:
 			echo '<span class="notice">';
-				echo __d('cake_dev', 'Cake is NOT able to connect to the database.');
+				echo __d('cake_dev', 'IKTrust Cabinet is NOT able to connect to the database.');
 				echo '<br /><br />';
 				echo $errorMsg;
 			echo '</span>';
@@ -137,13 +113,27 @@ if (isset($filePresent)):
 	<?php
 		if (CakePlugin::loaded('DebugKit')):
 			echo '<span class="notice success">';
-				echo __d('cake_dev', 'DebugKit plugin is present');
+				echo __d('cake_dev', 'DebugKit plugin is ACTIVE');
 			echo '</span>';
 		else:
 			echo '<span class="notice">';
 				echo __d('cake_dev', 'DebugKit is not installed. It will help you inspect and debug different aspects of your application.');
 				echo '<br/>';
 				echo __d('cake_dev', 'You can install it from %s', $this->Html->link('github', 'https://github.com/cakephp/debug_kit'));
+			echo '</span>';
+		endif;
+	?>
+</p>
+
+<p>
+	<?php
+		if (CakePlugin::loaded('Usermgmt')):
+			echo '<span class="notice success">';
+				echo __d('cake_dev', 'User Management plugin is ACTIVE');
+			echo '</span>';
+		else:
+			echo '<span class="notice">';
+				echo __d('cake_dev', 'User Management plugin is not installed and configured properly.');
 			echo '</span>';
 		endif;
 	?>
