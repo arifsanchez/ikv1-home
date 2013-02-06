@@ -13,7 +13,7 @@ class DATABASE_CONFIG {
 		'port' => '6199',
 		'encoding' => 'utf8',
 	);
-
+	
 	var $development = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
@@ -31,7 +31,7 @@ class DATABASE_CONFIG {
 	    if (!$_SERVER['SERVER_NAME'] == 'localhost') {
 	        $this->default = $this->production;
 	    } else {
-	        $this->default = $this->development;
+	        $this->default = $this->production;
 	    }
 	}
 
