@@ -6388,3 +6388,12 @@ Stack Trace:
 #6 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
 #7 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #8 {main}
+2013-02-06 13:23:17 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/ui.totop.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
