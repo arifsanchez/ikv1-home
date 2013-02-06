@@ -28,7 +28,7 @@ class DATABASE_CONFIG {
 
 	public function __construct()
 	{
-	    if ($_SERVER['SERVER_NAME'] == 'localhost') {
+	    if (!$_SERVER['SERVER_NAME'] == 'localhost') {
 	        $this->default = $this->production;
 	    } else {
 	        $this->default = $this->development;

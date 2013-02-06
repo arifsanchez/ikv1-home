@@ -46,7 +46,16 @@ $Description = __d('cake_dev', 'IK Trust : Cabinet');
 <body>
 	<div id="container">
 		<div id="header">
-			<h1><?php echo $this->Html->link($Description, 'http://iktrust.com'); ?></h1>
+			<h1>
+				<?php
+					if($this->UserAuth->isLogged()){
+						echo $this->Html->link(__("Dashboard"),"/dashboard").' | ';
+						echo $this->Html->link(__("Sign Out"),"/logout");
+					} else {
+						echo $this->Html->link(__("Sign In"),"/login").' | ';
+						echo $this->Html->link(__("Register"),"/register");
+					}
+			</h1>
 		</div>
 		<div id="content">
 			<div class="messageHolder"><?php echo $this->Session->flash(); ?></div>
