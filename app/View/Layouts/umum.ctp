@@ -13,44 +13,44 @@
   
 
     <?php 
-    	echo $this->Html->css('bootstrap.css');
-    	echo $this->Html->css('font-awesome-ie7.css');
-    	echo $this->Html->css('font-awesome.css');
-    	echo $this->Html->css('style.css');
-    	echo $this->Html->css('prettyPhoto.css');
-    	echo $this->Html->css('layerslider.css');
-    	echo $this->Html->css('skin.css');
-    	echo $this->Html->script('jquery.min.js');
-		  echo $this->Html->script('bootstrap.min.js');
-		  echo $this->Html->script('jquery.easing.1.3.js');
-		  echo $this->Html->script('jquery.quicksand.js');
-		  echo $this->Html->script('superfish.js');
-		  echo $this->Html->script('hoverIntent.js');
-		  echo $this->Html->script('jquery.hoverdir.js');
-		  echo $this->Html->script('jquery.flexslider.js');
-		  echo $this->Html->script('jflickrfeed.min.js');
-		  echo $this->Html->script('jquery.prettyPhoto.js');
-		  echo $this->Html->script('jquery.elastislide.js');
-		  echo $this->Html->script('jquery.tweet.js');
-		  echo $this->Html->script('smoothscroll.js');
-		  echo $this->Html->script('jquery.ui.totop.js');
-		  echo $this->Html->script('main.js');
-		  echo $this->Html->script('ajax-mail.js');
-		  echo $this->Html->script('jQuery.BlackAndWhite.min.js');
-		  echo $this->Html->script('accordion.settings.js');
-		  echo $this->Html->script('layerslider.kreaturamedia.jquery.js');
+      echo $this->Html->css('bootstrap.css');
+      echo $this->Html->css('font-awesome-ie7.css');
+      echo $this->Html->css('font-awesome.css');
+      echo $this->Html->css('style.css');
+      echo $this->Html->css('prettyPhoto.css');
+      echo $this->Html->css('layerslider.css');
+      echo $this->Html->css('skin.css');
+      echo $this->Html->script('jquery.min.js');
+      echo $this->Html->script('bootstrap.min.js');
+      echo $this->Html->script('jquery.easing.1.3.js');
+      echo $this->Html->script('jquery.quicksand.js');
+      echo $this->Html->script('superfish.js');
+      echo $this->Html->script('hoverIntent.js');
+      echo $this->Html->script('jquery.hoverdir.js');
+      echo $this->Html->script('jquery.flexslider.js');
+      echo $this->Html->script('jflickrfeed.min.js');
+      echo $this->Html->script('jquery.prettyPhoto.js');
+      echo $this->Html->script('jquery.elastislide.js');
+      echo $this->Html->script('jquery.tweet.js');
+      echo $this->Html->script('smoothscroll.js');
+      echo $this->Html->script('jquery.ui.totop.js');
+      echo $this->Html->script('main.js');
+      echo $this->Html->script('ajax-mail.js');
+      echo $this->Html->script('jQuery.BlackAndWhite.min.js');
+      echo $this->Html->script('accordion.settings.js');
+      echo $this->Html->script('layerslider.kreaturamedia.jquery.js');
 
-		  echo $this->Html->meta(
-		    'keywords',
-		    'trustxe, trust xe,E-Currency Exchange Money , ecurrency exchanger, Paypal, Payza, Alertpay, Liberty Reserve,Bank Wire'
-		);
+      echo $this->Html->meta(
+        'keywords',
+        'trustxe, trust xe,E-Currency Exchange Money , ecurrency exchanger, Paypal, Payza, Alertpay, Liberty Reserve,Bank Wire'
+    );
 
-		echo $this->Html->meta(
-		    'description',
-		    'Independent E-Currencies Exchanger, Selling & Buying Liberty Reserve'
-		);
-	?>
-	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    echo $this->Html->meta(
+        'description',
+        'Independent E-Currencies Exchanger, Selling & Buying Liberty Reserve'
+    );
+  ?>
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
 </head>
 
@@ -189,7 +189,7 @@
                         </ul>
                     </li>
                     <li><a href="#">Trader Rewards</a>
-                    	<ul>
+                      <ul>
                             <li><a href="#">Every Deposit Bonus</a></li>
                             <li><a href="#">Free G-Shock Watch</a></li>
                             <li><a href="#">Equity Booster</a></li>
@@ -197,7 +197,7 @@
                         </ul>
                     </li>
                     <li><a href="#">Investment</a>
-                    	<ul>
+                      <ul>
                             <li><a href="#">Why IK Invest</a></li>
                             <li><a href="#">Our Objectives</a></li>
                             <li><a href="#">Our Vision</a></li>
@@ -206,7 +206,7 @@
                         </ul>
                     </li>
                     <li><a href="#">Support</a>
-                    	<ul>
+                      <ul>
                             <li><a href="#">Support Channels</a></li>
                             <li><a href="#">Request Free Call</a></li>
                             <li><a href="#">Visit Partner Offices</a></li>
@@ -233,25 +233,6 @@
 <?php echo $this->element('footer'); ?>
 
 
-<!--footer menu-->
-
-<section id="footer-menu">
-    <div class="container">
-        <div class="row">
-            <div class="span8 hidden-phone">
-                <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Portfolio</a></li>
-                    <li><a href="#">Blog</a></li>
-                    <li><a href="#">Service</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </div>
-            <p class="span4"><span class="pull-right">Copyright 2012 - All Rights Reserved, Created by <a href="http://dxthemes.com">DXThemes.com</a></span></p>
-        </div>
-    </div>
-</section>
 
 </body>
 </html>
