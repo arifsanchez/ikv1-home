@@ -1,5 +1,7 @@
-
-<nav id="secondary" class="">
+<!-- Start - Slideshow -->
+<?php echo $this->element('slider'); ?>
+<!-- end - Slideshow -->
+ <nav id="secondary">
     <a href="#Panel1" class="assets"><i></i><span class="hidden-phone">Showcase Portfolio</span> </a>
     <a href="#Panel2" class="clients"><i></i><span class="hidden-phone">Manage Customers </span></a>
     <a href="#panel1" class="mobile"><i></i><span class="hidden-phone">Get Responsive </span></a>
@@ -50,7 +52,7 @@
     </div>
     <hr class="invisible">
     <div id="Panel1" class="row">
-       <div class="span6"><img src="img/gallery/combo_devices.png" class="img-rounded"></div>
+       <div class="span6"><img src="../img/gallery/combo_devices.png" class="img-rounded"></div>
        <div class="span6">
            <h2>We use FontAwesome in features list to give our customers better control over color schemes. Here you can provide a brief list of your advantages over competitors etc:</h2>
            <ul>
@@ -75,7 +77,7 @@
                     <li><i class="icon-ok"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et mi libero.</li>
                 </ul>
              </div>
-            <div class="span5"><img src="img/gallery/combo_devices2.png" class="img-rounded"></div>
+            <div class="span5"><img src="../img/gallery/combo_devices2.png" class="img-rounded"></div>
 
     </div>
     <hr class="invisible" >

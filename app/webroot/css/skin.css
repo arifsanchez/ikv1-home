@@ -23,7 +23,16 @@
     background: white;
     opacity: .9;
     width: 650px;
-    text-align: center;
+    text-align: left;
+}
+
+.l1-deci {
+    height: 80px;
+    color: white;
+    background: #000000;
+    opacity: .5;
+    width: 254px;
+    text-align: left;
 }
 
 .l2-s1 {

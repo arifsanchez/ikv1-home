@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=100%; initial-scale=1; maximum-scale=1; minimum-scale=1; user-scalable=no;" />
     <link rel="icon" href="images/favicon.png" type="image/png">
     <link rel="shortcut icon" href="images/favicon.png" type="image/png" />
-    <title><?php echo Configure::read('Application.name') .' | '. Configure::read('Application.slogan');?></title>
+    <title>IK Trust | Forex | Forex Broker</title>
   
 
     <?php 
@@ -42,12 +42,12 @@
 
       echo $this->Html->meta(
         'keywords',
-        'trustxe, trust xe,E-Currency Exchange Money , ecurrency exchanger, Paypal, Payza, Alertpay, Liberty Reserve,Bank Wire'
+        'iktrust, iktrust'
     );
 
     echo $this->Html->meta(
         'description',
-        'Independent E-Currencies Exchanger, Selling & Buying Liberty Reserve'
+        'Islamic Forex Trading Account Broker'
     );
   ?>
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
@@ -148,9 +148,12 @@
     <div class="container">
         <div class="row">
             <div class="span3 logo">
-                <a href="./index.html"><img src="img/main-logo.png" alt="logo"/></a>
+                <?php echo $this->Html->image("main-logo.png", array(
+    "alt" => "Brownies",
+    'url' => array('controller' => 'pages', 'action' => 'utama')
+));?>
             </div>
-
+            
             <nav id="menu" class="pull-right">
                 <ul>
                     <li class="current"><a href="#">About Us</a>
@@ -222,8 +225,9 @@
     </div>
 </header>
 
-<!--This is slider element-->
-<?php echo $this->element('slider'); ?>
+
+
+
 
 <?php echo $this->fetch('content'); ?>
    
