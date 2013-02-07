@@ -6823,3 +6823,75 @@ Request URL: /ikv1-home/images/ui.totop.png
 Stack Trace:
 #0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-02-07 11:13:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/gallery/top-shadow.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/clients.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/media.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/assets.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/communicate.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:36 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/grey-bg.gif
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:39 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/quotes.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-02-07 11:13:41 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/images/ui.totop.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
