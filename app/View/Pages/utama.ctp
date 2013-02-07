@@ -1,7 +1,7 @@
 <!-- Start - Slideshow -->
 <?php echo $this->element('slider'); ?>
 <!-- end - Slideshow -->
- <nav id="secondary">
+ <nav id="secondary" class="hidden-phone">
     <a href="#Panel1" class="assets"><i></i><span class="hidden-phone">Showcase Portfolio</span> </a>
     <a href="#Panel2" class="clients"><i></i><span class="hidden-phone">Manage Customers </span></a>
     <a href="#panel1" class="mobile"><i></i><span class="hidden-phone">Get Responsive </span></a>

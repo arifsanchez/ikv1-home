@@ -1,4 +1,4 @@
-<section class="slider-wrap">
+<section class="slider-wrap hidden-phone">
     <div id="layerslider" style="width: 100%; height: 400px; margin: 0px auto; ">
       
         <div class="ls-layer" style="slidedirection: top; slidedelay: 4000; durationin: 1500; durationout: 1500; delayout: 500;">
