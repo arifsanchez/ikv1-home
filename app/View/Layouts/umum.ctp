@@ -228,14 +228,15 @@
 
 
 
-
 <?php echo $this->fetch('content'); ?>
    
 <?php echo $this->Session->flash();?>
 
+
 <!--footer-->
 <?php echo $this->element('footer'); ?>
 <?php echo $this->element('livechat'); ?>
+
 
 
 </body>

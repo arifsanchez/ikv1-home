@@ -301,7 +301,7 @@ button.close {
 }
 
 #secondary .assets i {
-    background: url("../images/assets.png") no-repeat scroll 15px 4px transparent;
+    background: url("../img/gallery/assets.png") no-repeat scroll 15px 4px transparent;
     height: 32px;
     width: 60px;
 }
@@ -309,14 +309,14 @@ button.close {
     background-position: 15px -29px;
 }
 #secondary .clients i {
-    background: url("../images/clients.png") no-repeat scroll 15px 4px transparent;
+    background: url("../img/gallery/clients.png") no-repeat scroll 15px 4px transparent;
     height: 32px;
     width: 60px;
 }
 #secondary .clients:hover i{
     background-position: 15px -29px;
 }#secondary .mobile i {
-    background: url("../images/media.png") no-repeat scroll 15px 4px transparent;
+    background: url("../img/gallery/media.png") no-repeat scroll 15px 4px transparent;
     height: 32px;
     width: 60px;
 }
@@ -324,7 +324,7 @@ button.close {
     background-position: 15px -29px;
 }
 #secondary .communicate i {
-    background: url("../images/communicate.png") no-repeat scroll 15px 4px transparent;
+    background: url("../img/gallery/communicate.png") no-repeat scroll 15px 4px transparent;
     height: 32px;
     width: 60px;
 }
@@ -1531,7 +1531,7 @@ article.span3 h4{
 /*-----------------------------------------------------------------------------------*/
 #footer {
     background: #3B3B3B;
-    border-top: 6px solid #575656;
+    border-top: 3px solid #F12439;
     padding-bottom: 45px !important;
     padding-top: 40px;
     position: relative;
