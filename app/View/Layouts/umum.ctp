@@ -235,7 +235,7 @@
 
 <!--footer-->
 <?php echo $this->element('footer'); ?>
-
+<?php echo $this->element('livechat'); ?>
 
 
 </body>
