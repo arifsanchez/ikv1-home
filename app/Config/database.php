@@ -5,12 +5,12 @@ class DATABASE_CONFIG {
 	var $production = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'instance38153.db.xeround.com',
-		'login' => 'app11602012',
-		'password' => 'oipolloi88',
-		'database' => 'app11602012',
+		'host' => 'us-cdbr-east-03.cleardb.com',
+		'login' => 'b9c78850a0818d',
+		'password' => '3a9127c7',
+		'database' => 'heroku_084542947a871a7',
 		'prefix' => '',
-		'port' => '6199',
+		#'port' => '6199',
 		'encoding' => 'utf8',
 	);
 	
