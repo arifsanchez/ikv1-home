@@ -20,7 +20,7 @@
 
 <div class="container">
 
-    <div class="row highlights">
+    <!--div class="row highlights">
         <div class="span3">
             <i class="icon-cogs"></i>
             <h3>Customizable</h3>
@@ -49,10 +49,10 @@
 
             <p>
         </div>
-    </div>
+    </div-->
     <hr class="invisible">
     <div id="Panel1" class="row">
-       <div class="span6"><img src="../img/gallery/combo_devices.png" class="img-rounded"></div>
+       <div class="span6"><?php echo $this->Html->image("content/combo_devices.jpg", array('class' => 'img-rounded', 'alt' => 'meta client')) ;?></div>
        <div class="span6">
            <h2>We use FontAwesome in features list to give our customers better control over color schemes. Here you can provide a brief list of your advantages over competitors etc:</h2>
            <ul>
@@ -77,7 +77,7 @@
                     <li><i class="icon-ok"></i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et mi libero.</li>
                 </ul>
              </div>
-            <div class="span5"><img src="../img/gallery/combo_devices2.png" class="img-rounded"></div>
+            <div class="span5"><?php echo $this->Html->image("content/combo_devices2.png", array('class' => 'img-rounded', 'alt' => 'metatrader')) ;?></div>
 
     </div>
     <hr class="invisible" >

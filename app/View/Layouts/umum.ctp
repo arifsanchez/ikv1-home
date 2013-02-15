@@ -150,7 +150,7 @@
             <div class="span3 logo">
                 <?php echo $this->Html->image("main-logo.png", array(
     "alt" => "Brownies",
-    'url' => array('controller' => 'pages', 'action' => 'utama')
+    'url' => array('controller' => '/', 'action' => '/')
 ));?>
             </div>
             
