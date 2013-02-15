@@ -52,7 +52,7 @@
             </ul>
         </li>
         <li>
-            <?php echo $this->Html->link('Support', array('/support'));?>
+            <?php echo $this->Html->link('Support', array('support'));?>
         </li>
 
     </ul>
