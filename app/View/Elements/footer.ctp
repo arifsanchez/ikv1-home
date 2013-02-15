@@ -30,11 +30,9 @@ Any opinions, news, research, analyses, prices or other information contained on
         <div class="row">
             <div class="span8 hidden-phone">
                 <p class="footer-social">
-                <a href="#" rel="tooltip" title="Twitter"><i class="icon-twitter-sign"></i></a>
-                <a href="#" rel="tooltip" title="FaceBook"><i class="icon-facebook-sign"></i></a>
-                <a href="#" rel="tooltip" title="LinkedIn"><i class="icon-linkedin-sign"></i></a>
-                <a href="#" rel="tooltip" title="GooglePlus"><i class="icon-google-plus-sign"></i></a>
-                <a href="#" rel="tooltip" title="Pinterest"><i class="icon-pinterest-sign"></i></a>
+                <a href="https://twitter.com/IKTrust" rel="tooltip" title="Twitter"><i class="icon-twitter-sign"></i></a>
+                <a href="https://www.facebook.com/ikTRUST" rel="tooltip" title="FaceBook"><i class="icon-facebook-sign"></i></a>
+                <a href="https://plus.google.com/u/0/117538060697162473554/posts" rel="tooltip" title="GooglePlus"><i class="icon-google-plus-sign"></i></a>
                 </p>
            </div>
             <p class="span4"><span class="pull-right"></span></p>

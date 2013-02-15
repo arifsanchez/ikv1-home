@@ -2,8 +2,8 @@
     <div id="layerslider" style="width: 100%; height: 400px; margin: 0px auto; ">
    
         <div class="ls-layer" style="slidedirection: top; slidedelay: 4000; durationin: 1500; durationout: 1500; delayout: 500;">
-            <?php echo $this->Html->image("skins/slider2.png", array('class' => 'ls-bg', 'alt' => 'deposit')) ;?>
-            <p class="ls-s2 l1-s1" style="position: absolute; top:240px; left: 50%; slidedirection : bottom; slideoutdirection : left; durationin : 3000; durationout : 750; easingin : easeOutElastic; easingout : easeInBack; delayin : 1000;">Pellentesque suscipit, enim quis ultrices lacinia, lectus enim pulvinar sem, quis scelerisque mauris justo a mauris.</p>
+            <?php echo $this->Html->image("skins/slider2.png", array('class' => 'ls-bg', 'alt' => 'new')) ;?>
+            <p class="ls-s2 l1-s1" style="position: absolute; top:275px; left: 50%; slidedirection : bottom; slideoutdirection : left; durationin : 3000; durationout : 750; easingin : easeOutElastic; easingout : easeInBack; delayin : 1000;">COMING SOON ! New Traders Room , New Trading Platform , Upgraded Trading Server with multiple Data Centre &amp; more</p>
 
         </div>
        
