@@ -15,3 +15,5 @@ cache/views/*
 logs/*
 tests/*
 sessions/*
+
+!.DS_Store
