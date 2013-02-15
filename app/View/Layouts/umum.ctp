@@ -161,19 +161,26 @@
     </div>
 </header>
 
+<?php if($this->request->params['pass'][0] == 'utama'){ ?>
+    <?php echo $this->element('slider'); ?>
+<?php }?>
 
+<section id="container">
 
-
-<?php echo $this->fetch('content'); ?>
-   
-<?php echo $this->Session->flash();?>
+  <div class="container">
+    <div class="row-fluid">
+    <?php 
+      echo $this->Session->flash();
+      echo $this->fetch('content'); 
+    ?>
+    </div>
+  </div>
+</section>
 
 
 <!--footer-->
 <?php echo $this->element('footer'); ?>
 <?php echo $this->element('footer-script'); ?>
-
-
 
 </body>
 </html>
