@@ -1,6 +1,8 @@
 <!-- Start - Slideshow -->
 <?php echo $this->element('slider'); ?>
 <!-- end - Slideshow -->
+
+<!--
  <nav id="secondary" class="hidden-phone">
     <a href="#Panel1" class="assets"><i></i><span class="hidden-phone">Showcase Portfolio</span> </a>
     <a href="#Panel2" class="clients"><i></i><span class="hidden-phone">Manage Customers </span></a>
@@ -8,19 +10,19 @@
     <a href="#Panel2" class="communicate"><i></i><span class="hidden-phone">Stay In Touch</span> </a>
 </nav>
 <section id="container">
-    <!--Welcome block goes inside page content but not wrapped in 1170 Container, wrapping is applied inside-->
+    <Welcome block goes inside page content but not wrapped in 1170 Container, wrapping is applied inside>
     <section id="welcome2">
         <div class="container welcome2-wrap">
-        <!--<h1>Ut nulla <span>eget massa</span> blandit eleifend sed lacus!</h1>-->
+        <<h1>Ut nulla <span>eget massa</span> blandit eleifend sed lacus!</h1>>
         <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et mi libero. Vestibulum aliquam elit sed eros vehicula pellentesque. Vestibulum quis elit augue.Phasellus enim diam, scelerisque at lobortis quis, mollis mollis sem.“ <span class="welcome-signature pull-right">– Marcus Aurelius, Ancient Rome</span> </p>
 
-        <!--<a class="btn btn-welcome btn-large pull-right">Learn more</a>-->
+        <<a class="btn btn-welcome btn-large pull-right">Learn more</a>>
         </div>
     </section>
 
-<div class="container">
+    <div class="container">
 
-    <!--div class="row highlights">
+    <div class="row highlights">
         <div class="span3">
             <i class="icon-cogs"></i>
             <h3>Customizable</h3>
@@ -49,7 +51,7 @@
 
             <p>
         </div>
-    </div-->
+    </div>
     <hr class="invisible">
     <div id="Panel1" class="row">
        <div class="span6"><?php echo $this->Html->image("content/combo_devices.jpg", array('class' => 'img-rounded', 'alt' => 'meta client')) ;?></div>
@@ -134,7 +136,4 @@
         </div>
     </div>
 </div>
-
-
-
-</section>
+</section-->
