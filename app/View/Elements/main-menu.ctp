@@ -1,5 +1,6 @@
 <nav id="menu" class="pull-right">
     <ul>
+        <!--
         <li class="current"><a href="#">About Us</a>
             <ul>
                 <li><a href="#">Our Company</a></li>
@@ -9,7 +10,6 @@
                 <li class="last"><a href="#" >Hassle Free Trading</a></li>
             </ul>
         </li>
-        <!--li><a href="#">News</a></li-->
         <li><a href="#"><span class="name">Trading</span></a>
             <ul>
                 <li><a href="#">Trading Account Type</a></li>
@@ -51,6 +51,7 @@
                 <li class="last"><a href="#">Term & Conditions</a></li>
             </ul>
         </li>
+        -->
         <li>
             <?php echo $this->Html->link('Support', array('support'));?>
         </li>
