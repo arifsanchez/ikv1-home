@@ -26,7 +26,7 @@ Design & code by Studio 164a
     padding: 0 8px 0 9px;
     margin: 0 15px 0 0;
     overflow: hidden;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .newsticker_wrapper a {
@@ -40,6 +40,7 @@ Design & code by Studio 164a
 
 .newsticker li {
     padding: 0 15px;
+    font-weight: bold;
 }
 
 .newsticker_controls {

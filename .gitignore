@@ -1,14 +1,5 @@
-*
-!.gitignore
+.gitignore
 .DS_Store
 app/tmp/cache/persistent/myapp_cake_core_cake_dev_en-us
-
 app/tmp/logs/error.log
-
-app/tmp/cache/persistent/myapp_cake_core_cake_dev_en-us
-
-app/webroot/.DS_Store
-
-app/tmp/cache/persistent/myapp_cake_core_cake_dev_en-us
-
 app/webroot/.DS_Store
