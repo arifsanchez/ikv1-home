@@ -1,3 +1,5 @@
+<?php echo $this->element('newsticker'); ?>
+
 <!--
  <nav id="secondary" class="hidden-phone">
     <a href="#Panel1" class="assets"><i></i><span class="hidden-phone">Showcase Portfolio</span> </a>

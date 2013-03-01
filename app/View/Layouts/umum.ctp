@@ -59,7 +59,7 @@
 <script type="text/javascript">
     $(document).ready(function(){
         $('#layerslider').layerSlider({
-            skinsPath : './skins/',
+            skinsPath : './css/ful/',
             skin : 'fullwidth',
             thumbnailNavigation : 'hover',
             hoverPrevNext : false
