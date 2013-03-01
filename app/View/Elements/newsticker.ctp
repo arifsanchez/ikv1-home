@@ -1,11 +1,8 @@
 <?php
-echo $this->fetch('meta');
-echo $this->fetch('css');
-echo $this->fetch('script');
+
 
 echo $this->Html->css('clean_red');
 echo $this->Html->script('newsticker.jquery.min');
-
 ?>
 
 

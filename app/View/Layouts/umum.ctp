@@ -14,7 +14,9 @@
   
 
     <?php 
+
       echo $this->Html->css('bootstrap.css');
+      
       echo $this->Html->css('font-awesome-ie7.css');
       echo $this->Html->css('font-awesome.css');
       echo $this->Html->css('style.css');
@@ -40,7 +42,7 @@
       echo $this->Html->script('jQuery.BlackAndWhite.min.js');
       echo $this->Html->script('accordion.settings.js');
       echo $this->Html->script('layerslider.kreaturamedia.jquery.js');
-
+      
       echo $this->Html->meta(
         'keywords',
         'iktrust, ik trust, forex, forex broker, metatrader 4, mt4,'
