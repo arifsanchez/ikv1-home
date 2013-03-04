@@ -38,7 +38,7 @@
             
             <!-- BEGIN FIRST CONTENT COLUMN -->
             <ul class="pricing_column gradient_blue">
-                <li class="pricing_header1">Mini Account</li>
+                <li class="pricing_header1">Mini</li>
                 <li class="pricing_header2"><span>From&nbsp;</span>$10</li>
                 <li class="odd" data-table="Spread">Fixed, from 3 pip(s)</li>
                 <li class="even" data-table="Pricing Decimals">4 Decimals, 5 Decimals</li>
@@ -65,10 +65,10 @@
 
             <!-- BEGIN SECOND CONTENT COLUMN -->
             <ul class="pricing_column gradient_green">
-                <li class="pricing_header1">Standard Account</li>
+                <li class="pricing_header1">Standard</li>
                 <li class="pricing_header2"><span>From&nbsp;</span>$1,000</li>
                 <li class="odd" data-table="Spread">Floating, from 0,1 pip(s)</li>
-                <li class="even" data-table="Pricing Decimals">4 Decimals</li>
+                <li class="even" data-table="Pricing Decimals">5 Decimals</li>
                 <li class="odd" data-table="Leverage">1:1, 1:10, 1:100, 1:200, 1:500</li>
                 <li class="even" data-table="Symbols">Forex Direct, Gold &amp; Silver</li>
                 <li class="odd" data-table="Minimum Deposit">$1000</li>
@@ -91,10 +91,10 @@
 
             <!-- BEGIN THIRD CONTENT COLUMN -->
             <ul class="pricing_column gradient_yellow">
-                <li class="pricing_header1">Premium Account</li>
+                <li class="pricing_header1">Premium</li>
                 <li class="pricing_header2"><span>From&nbsp;</span>$10,000</li>
                 <li class="odd" data-table="Spread">Floating, from 0,1 pip(s)</li>
-                <li class="even" data-table="Pricing Decimals">4 Decimals</li>
+                <li class="even" data-table="Pricing Decimals">5 Decimals</li>
                 <li class="odd" data-table="Leverage">1:1, 1:10, 1:100, 1:200</li>
                 <li class="even" data-table="Symbols">Forex Direct, Gold &amp; Silver</li>
                 <li class="odd" data-table="Minimum Deposit">$10,000</li>
