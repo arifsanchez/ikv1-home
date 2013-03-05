@@ -8,4 +8,4 @@ New Homepage and platform for IK Trust Capital Market Corporation Ltd.
 + CakePHP 2.3.0
 + Twitter Bootstrap
 + Heroku Cloud Hosting
-+ Zeround MySql DB
++ ClearDB MySql DB
