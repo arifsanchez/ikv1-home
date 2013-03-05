@@ -1,0 +1,6 @@
+<?php
+
+#page : about us
+
+
+?>
