@@ -1,5 +1,3 @@
-
-
 <?php
     echo $this->Html->css('pricingtable.css');
 ?>
