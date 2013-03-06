@@ -25,28 +25,28 @@
             	<div class="tabbable tabs-left">
 				    <ul class="nav nav-tabs">
 				    	<li class="active">
-				    		<a href="#currency_tab1" data-toggle="tab">
+				    		<a href="#contact_tab1" data-toggle="tab">
 				    		General Customer Inquiries
 				    		</a>
 				    	</li>
 				    	<li>
-							<a href="#currency_tab3" data-toggle="tab">
+							<a href="#contact_tab2" data-toggle="tab">
 							Trading Account Department
 							</a>
 						</li>
 						<li>
-							<a href="#currency_tab4" data-toggle="tab">
+							<a href="#contact_tab3" data-toggle="tab">
 							Finance Account Department
 							</a>
 						</li>
 						<li>
-							<a href="#currency_tab5" data-toggle="tab">
+							<a href="#contact_tab4" data-toggle="tab">
 							Partnership Account Department
 							</a>
 						</li>
 						<li>
-							<a href="#currency_tab6" data-toggle="tab">
-							Introducing Our Broker
+							<a href="#contact_tab5" data-toggle="tab">
+							Introducing Broker (IB)
 							</a>
 						</li>
 				    </ul>
@@ -87,8 +87,7 @@
 		                     </address> 
 					    </div>
 
-
-					    <div class="tab-pane" id="currency_tab3">
+					    <div class="tab-pane" id="contact_tab2">
 					    	<h3>REGIONAL OFFICES</h3>
 	
 					    	<p>
@@ -142,104 +141,152 @@
 					    	
 					    </div>
 
-
-					    <div class="tab-pane" id="currency_tab4">
-					    	<h4>GBP/USD</h4>
-					    	<p>
-					    		Secondly, investors regard GBPUSD as a kind of indicator “anticipating” the movements of Euro. Finally, the highest liquidity of GBPUSD makes it applicable not only to position trading, but also to trading within shortest periods of time.
-					    	</p>
-
+					    <div class="tab-pane" id="contact_tab3">
+					    	<h3>Finance</h3>
+							<p>
+							<div>
+								<strong>Work schedule :</strong> 
+								9 a.m. - 6 p.m.(GMT +3)
+								(Mon - Fri)
+							</div>
+							<div>
+								<strong>Email :</strong>
+								finance@iktrust.com
+							</div>
+							</p>
 					    </div>
 
-					    <div class="tab-pane" id="currency_tab5">
-					    	<h4>NZD/USD</h4>
+					    <div class="tab-pane" id="contact_tab4">
+					    	<h3>Partnership</h3>
 					    	<p>
-					    		The New Zeeland dollar is ranked among the so called “commodity currencies”, since the export of raw materials predominates in the GDP structure of New Zeeland. 
-					    	</p>
+							<div>
+								<strong>Work schedule :</strong> 
+								9 a.m. - 6 p.m.(GMT +3)
+								(Mon - Fri)
+							</div>
+							<div>
+								<strong>Email :</strong>
+								partnership@iktrust.com
+							</div>
+							</p>
 					    </div>
 
-					    <div class="tab-pane" id="currency_tab6">
+					    <div class="tab-pane" id="contact_tab5">
 					    	<h4>Broker & LOCAL EXCHANGER</h4>
+					    	
 					    	<div class="row-fluid">
-					    		<div class="span4">
-				    				<strong>PHILIPPINES</strong><br>
-									<p>Pandinhaya Merchandise</p>
-									<p>
-										Web :  www.iktrustphilippines.com
-										Email : admin@iktrustphilippines.com
-										Contact Person : Mr. Khairul
-										Phone : +63-9164406765
-				    				</p>
-					    		</div>
+					    		<div class="span12">
+			    			        <div class="tabbable tabs-right"> <!-- Only required for left/right tabs -->
+									    <ul class="nav nav-tabs">
+									    	<li class="active">
+									    		<a href="#tab1" data-toggle="tab">Indonesia</a>
+									    	</li>
 
-					    		<div class="span4">
-				    				<strong>MALAYSIA</strong><br>
-				    				<p>Akfx System</p>
-				    				<p>
-										Web :  www.akfx.my
-										Email : support@akfx.my
-										Contact Person : Mr. Asmadi
-										Phone : +603-27273280
-									</p>
-					    		</div>
+									    	<li>
+									    		<a href="#tab2" data-toggle="tab">Malaysia</a>
+									    	</li>
 
-					    		<div class="span4">
-					    			<strong></strong>
-					    			<p>BM Technology Resources<p>
-					    			<p>
-										Web :  www.bmtrust.biz
-										Email : admin@bm-techno.com
-										Contact Person : Mr. Matt
-										Phone : +603-27273283
-									</p>
+									    	<li>
+									    		<a href="#tab3" data-toggle="tab">Philipines</a>
+									    	</li>
+									    </ul>
+
+									    <div class="tab-content">
+									    	<div class="tab-pane active" id="tab1">
+									    		<div class="row-fluid">
+									    		<div class="span12">
+								    				<p><strong>INDONESIA SITE</strong></p>
+													Web :  www.iktrustphilippines.com
+													<br>
+													Email : admin@iktrustphilippines.com
+													<br>
+													Contact Person : Mr. Khairul
+													<br>
+													Phone : +63-9164406765
+									    		</div>
+									    		</div>
+									    	</div>
+
+									    	<div class="tab-pane" id="tab2">
+									    		
+									    		<div class="row-fluid">
+									    			<div class="span6 well">
+									    				<p><strong>Akfx System</strong></p>
+									    				Web :  www.akfx.my<br>
+														Email : support@akfx.my<br>
+														Contact Person : Mr. Asmadi<br>
+														Phone : +603-27273280
+										    		</div>
+
+										    		<div class="span6 well">										    	<p><strong>BM Technology Resources</strong><p>
+														Web :  www.bmtrust.biz<br>
+														Email : admin@bm-techno.com<br>
+														Contact Person : Mr. Matt<br>
+														Phone : +603-27273283<br>
+
+										    		</div>
+									    		</div>
+
+									    		<div class="row-fluid">
+									    			<div class="span6 well">
+										    			<p><strong>Dzanine Enterprise</strong></p>
+														Web :  www.iktrustfx.com<br>
+														Email : support@iktrustfx.com<br>
+														Contact Person : Mr. Zani<br>
+														Phone : +603-27273281
+										    		</div>
+
+										    		<div class="span6 well">
+										    			<p><strong>IKMalaya Worldwide</strong></p>
+														Web :  www.iktrustfxpro.com<br>
+														Email : support@iktrustfxpro.com<br>
+														Contact Person : Mr. Amir<br>
+														Phone : +603-27273284
+										    		</div>
+									    		</div>
+
+									    		<div class="row-fluid">
+									    			<div class="span6 well">
+										    			<p><strong>IK Market Technology</strong></p>
+														Web :  www.iktrust.my<br>
+														Email : support@iktrust.my<br>
+														Contact Person : Mr. Kyairil<br>
+														Phone : +603-27273288
+										    		</div>
+
+										    		<div class="span6 well">
+										    			<p><strong>Seri Technology</strong></p>
+														Web :  www.iktrustklcc.com<br>
+														Email : support@iktrustklcc.com<br>
+														Contact Person : Mr. Lukman<br>
+														Phone : +603-27273282
+										    		</div>	
+									    		</div>
+									    	</div>
+
+									    	<div class="tab-pane" id="tab3">
+									    		<div class="row-fluid">
+									    		<div class="span10 well">
+								    				<p><strong>Pandinhaya Merchandise</strong></p>
+													Web :  www.iktrustphilippines.com
+													<br>
+													Email : admin@iktrustphilippines.com
+													<br>
+													Contact Person : Mr. Khairul
+													<br>
+													Phone : +63-9164406765
+									    		</div>
+									    		</div>
+									    	</div>
+									    </div>
+								    </div>
 					    		</div>
 					    	</div>
 
-					    	<hr class="invisible">
 
-					    	<div class="row-fluid">
-					    		<div class="span4">
-					    			<p>
-					    				Dzanine Enterprise
-										Web :  www.iktrustfx.com
-										Email : support@iktrustfx.com
-										Contact Person : Mr. Zani
-										Phone : +603-27273281
-					    			</p>
-					    		</div>
+					    
 
-					    		<div class="span4">
-					    			<p>
-					    				IKMalaya Worldwide
-										Web :  www.iktrustfxpro.com
-										Email : support@iktrustfxpro.com
-										Contact Person : Mr. Amir
-										Phone : +603-27273284
-					    			</p>
-					    		</div>
 
-					    		<div class="span4">
-					    			<p>
-					    				IK Market Technology
-										Web :  www.iktrust.my
-										Email : support@iktrust.my
-										Contact Person : Mr. Kyairil
-										Phone : +603-27273288
-					    			</p>
-					    		</div>
-					    	</div>
-
-					    	<div class="row-fluid">
-					    		<div class="span4">
-					    			<p>
-					    				Seri Technology
-										Web :  www.iktrustklcc.com
-										Email : support@iktrustklcc.com
-										Contact Person : Mr. Lukman
-										Phone : +603-27273282
-					    			</p>
-					    		</div>	
-					    	</div>
 					    	</p>
 					    </div>
 
