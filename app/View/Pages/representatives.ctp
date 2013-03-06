@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 <div class="container_representatives">
 
 	<section class="representatives_page">
@@ -9,6 +10,28 @@
 		  </li>
 		  <li class="active">Contact Us</li>  
 		</ul>
+=======
+<section class="contact_page">
+	
+	<div class="row-fluid">
+		<ul class="breadcrumb">
+		  <li>
+		  	<?php echo $this->Html->link('Home', array('controller'=>'pages','action' => 'index')); ?>
+		  	<span class="divider">/</span>
+		  </li>
+		  <li class="active">Representatives</li>  
+		</ul>
+
+	    <article class="breadcrumb">
+	    	<h1>IK Trust Support will be there for you</h1>
+			<p>
+				Why don't you try
+				<a href="#">submitting a new ticket</a>
+				to test out our new helpdesk?
+			</p>
+		</article>
+	</div>
+>>>>>>> live setting
 
 	    <article class="breadcrumb">
 	    	<h1>IK Trust Support will be there for you</h1>
