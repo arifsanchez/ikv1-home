@@ -61,7 +61,7 @@
             <ul>
                 <li><?php echo $this->Html->link('Account Types', array('controller'=>'pages','action' => 'account-types'));?></li>
                 <li><?php echo $this->Html->link('Trading Platform', array('controller'=>'pages','action' => 'trading_platform'));?></li>
-                <li><a href="#">Instruments</a></li>
+                <li><?php echo $this->Html->link('Instruments', array('controller'=>'pages','action' => 'instruments'));?></li>
             </ul>
         </li>
         <li>
@@ -76,7 +76,7 @@
         </li>
 
         <li>
-            <?php echo $this->Html->link('Contact', array('controller'=>'pages','action' => 'contacts'));?>
+            <?php echo $this->Html->link('Representatives', array('controller'=>'pages','action' => 'representatives'));?>
         </li>
 
     </ul>
