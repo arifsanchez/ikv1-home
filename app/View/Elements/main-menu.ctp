@@ -51,7 +51,7 @@
                 <li class="last"><a href="#">Term & Conditions</a></li>
             </ul>
         </li>
-        -->
+       
         <li class="current"><a href="#">Company</a>
             <ul>
                 <li><?php echo $this->Html->link('About Us', array('controller'=>'pages','action' => 'about_us'));?></li>
@@ -64,6 +64,7 @@
                 <li><?php echo $this->Html->link('Instruments', array('controller'=>'pages','action' => 'instruments'));?></li>
             </ul>
         </li>
+         -->
         <li>
             <?php echo $this->Html->link('Support Centre', '#');?>
             <ul>
@@ -75,9 +76,9 @@
             </ul>
         </li>
 
-        <li>
+        <!--li>
             <?php echo $this->Html->link('Representatives', array('controller'=>'pages','action' => 'representatives'));?>
-        </li>
+        </li-->
 
     </ul>
 </nav>
