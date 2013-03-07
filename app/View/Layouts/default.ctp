@@ -64,7 +64,6 @@ $Description = __d('cake_dev', 'IK Trust : Cabinet');
 			<?php echo $this->fetch('content'); ?>
 		</div>
 		<div id="footer">
-
 		</div>
 	</div>
 </body>

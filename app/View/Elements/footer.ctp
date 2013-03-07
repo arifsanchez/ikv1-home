@@ -35,7 +35,7 @@ Any opinions, news, research, analyses, prices or other information contained on
                 <a href="https://plus.google.com/u/0/117538060697162473554/posts" rel="tooltip" title="GooglePlus"><i class="icon-google-plus-sign"></i></a>
                 </p>
            </div>
-            <p class="span4"><span class="pull-right"></span></p>
-        </div>
+            <!--p class="span4"><span class="pull-right"></span></p>
+        </div-->
     </div>
 </section>

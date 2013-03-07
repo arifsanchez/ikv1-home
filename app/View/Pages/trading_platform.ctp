@@ -14,13 +14,13 @@
     </p>
 
     <div id="Panel1" class="row-fluid">
-       <div class="span5">
+       <div class="span4">
             <?php 
                 echo $this->Html->image("content/combo_devices.jpg", array('class' => 'img-rounded', 'alt' => 'meta client'));
             ?>
         </div>
 
-       <div class="span4">
+       <div class="span5">
             <h2>Meta Trader 4 (Windows)</h2> 
             <p>
                 When you choose to trade with the IKTrust MetaTrader 4 platform, you are “driving” a dynamic and flexible platform. 

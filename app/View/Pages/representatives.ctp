@@ -1,26 +1,25 @@
 
-<section class="contact_page">
+<div class="container_representatives">
+
+	<section class="representatives_page">
+		<ul class="breadcrumb">
+		  <li>
+		  	<?php echo $this->Html->link('Home', array('controller'=>'pages','action' => 'index')); ?>
+		  	<span class="divider">/</span>
+		  </li>
+		  <li class="active">Contact Us</li>  
+		</ul>
+
+	    <article class="breadcrumb">
+	    	<h1>IK Trust Support will be there for you</h1>
+			<p>
+				Why don't you try
+				<a href="#">submitting a new ticket</a>
+				to test out our new helpdesk?
+			</p>
+		</article>
 	
-	<ul class="breadcrumb">
-	  <li>
-	  	<?php echo $this->Html->link('Home', array('controller'=>'pages','action' => 'index')); ?>
-	  	<span class="divider">/</span>
-	  </li>
-	  <li class="active">Contact Us</li>  
-	</ul>
-
-    <article class="breadcrumb">
-    	<h1>IK Trust Support will be there for you</h1>
-		<p>
-			Why don't you try
-			<a href="#">submitting a new ticket</a>
-			to test out our new helpdesk?
-		</p>
-	</article>
-
-	<div class="container">
-	   	<div class="row">
-            
+	   	<div class="row-fluid">
             <section id="page-sidebar" class="span9">
             	<div class="tabbable tabs-left">
 				    <ul class="nav nav-tabs">
@@ -52,7 +51,7 @@
 				    </ul>
 
 					<div class="tab-content">
-				    	<div class="tab-pane active" id="currency_tab1">
+				    	<div class="tab-pane active" id="contact_tab1">
 				    		<p>
 				    			<div style="font-size: 24px;">
 									<i class="icon-globe icon-large"></i>
@@ -60,115 +59,136 @@
 								</div>
 						    </p>
 
-						    <address>
-						    <p>
-		                        <strong>IK TRUST CAPITAL MARKET CORPORATION Ltd.</strong>
-							</p>
-						    </address>
-						    
-						    <article>
-			                	<iframe width="98%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.my/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Level+31+Vero+Centre,+48+Shortland+Street,+Auckland+1010,+New+Zealand.&amp;aq=&amp;sll=4.18646,109.48935&amp;sspn=15.663266,31.442871&amp;ie=UTF8&amp;hq=Level+31+Vero+Centre,+48+Shortland+Street,+Auckland+1010,+New+Zealand.&amp;hnear=&amp;radius=15000&amp;t=m&amp;ll=-36.846586,174.768378&amp;spn=0.071946,0.071946&amp;output=embed"></iframe>
-			                	</iframe>
-			                </article>
+							<div class="row-fluid">
+								<div class="span12 well">
+								    <address>
+								    <p>
+				                        <strong>IK TRUST CAPITAL MARKET CORPORATION Ltd.</strong>
+									</p>
+								    </address>
 
+					                <address>								
+					                	New Zealand Business Registration No.3851316
+										300 Richmond Road  Grey Lynn,
+										Auckland 1021, New Zealand.
+					            		<div>
+					            			<abbr title="Phone"><strong>Contact No. :</strong></abbr> (+64) 9352 2046
+					                   	</div>
+					                   	<div>
+					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.com
+					                    </div>
+					                    <div>
+					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> support@iktrust.com
+					                    </div>
+				                     </address> 
+			                    </div>
+			                </div>
 
-			                <address>								
-			                	New Zealand Business Registration No.3851316
-								300 Richmond Road  Grey Lynn,
-								Auckland 1021, New Zealand.
-							<p>
-			            		<abbr title="Phone"><strong>Contact No. :</strong></abbr> (+62) 8128 0685 463
-			                   	<br>
-			                    <abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.com
-			                    <br>
-			                    <abbr title="Email"><strong>Email Us :</strong></abbr> support@iktrust.com
-			                    </p>
-		                    </p>
-		                     </address> 
+		                    <hr>
+		                    <div class="row-fluid">
+		                     	<h3>REGIONAL OFFICES</h3>
+						    </div>
+
+					       	<p>
+					    	<div class="row-fluid">
+					    		<div class="span6 well">
+					    			<p>
+										<strong>NEW ZEALAND - Auckland</strong>
+										<div>Level 31 Vero Centre, 48 Shortland Street, Auckland 1010,</div>
+										<div>New Zealand.</div>
+									</p>
+									<p>
+									  	<div>
+					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.com
+					                    </div>
+					                    <div>
+					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> manager@iktrust.com
+					                    </div>
+									</p>
+					    		</div>
+					    		
+					    		<div class="span6 well">
+					    			<p>
+										<strong>INDONESIA - Jakarta</strong>
+										<div>No. 11F, Jln Tanah Abang 1, 10160 Jakarta Pusat,</div>
+										<div>Indonesia.</div>
+									</p>
+									<p>
+										<div>
+					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.co.id
+					                    </div>
+					                    <div>
+					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> hello@iktrust.com
+					                    </div>
+					                    <div>
+					                    	<abbr title="Web"><strong>Contact Person :</strong></abbr> Mr. Hendra
+					                    </div>
+					                    <div>
+					                    	<abbr title="Email"><strong>Phone :</strong></abbr> (+62) 8128 0685 463
+					                    </div>
+							    	</p>
+					    		</div>
+					    	</div>
+				    		</p>
 					    </div>
 
 					    <div class="tab-pane" id="contact_tab2">
-					    	<h3>REGIONAL OFFICES</h3>
-	
-					    	<p>
 					    	<div class="row-fluid">
-					    		<div class="span4">
-					    			<p>
-										<strong>NEW ZEALAND - Auckland</strong>z<br>
-										Level 31 Vero Centre, 48 Shortland Street,
-										Auckland 1010,
-										New Zealand.
-									</p>
+					    		<div class="span12 well">
+							    	<h3>Trading</h3>
 									<p>
-										Web : www.iktrust.co.nz<br>
-										Email : technical@iktrust.com<br>
-										Contact Person : Ms. Kelly<br>
-										Phone : (+64) 9352 2046
+									<div>
+										<strong>Work schedule :</strong> 
+										9 a.m. - 6 p.m.(GMT +3)
+										(Mon - Fri)
+									</div>
+									<div>
+										<strong>Email :</strong>
+										technical@iktrust.com
+									</div>
 									</p>
-					    		</div>
-					    		<div class="span8" align="center">
-					    			<article>
-					                	<iframe width="80%" height="190" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.my/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Level+31+Vero+Centre,+48+Shortland+Street,+Auckland+1010,+New+Zealand.&amp;aq=&amp;sll=4.18646,109.48935&amp;sspn=15.663266,31.442871&amp;ie=UTF8&amp;hq=Level+31+Vero+Centre,+48+Shortland+Street,+Auckland+1010,+New+Zealand.&amp;hnear=&amp;radius=15000&amp;t=m&amp;ll=-36.846586,174.768378&amp;spn=0.071946,0.071946&amp;output=embed"></iframe>
-				                	</article>
-					    		</div>
-					    	</div>
-					    	</p>
-
-					    	<p>
-					    	<div class="row-fluid">
-					    		<div class="span8" align="center">
-					    			<article>
-					                	<iframe width="80%" height="190" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.my/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=No.+11F,+Jln+Tanah+Abang+1,+10160+Jakarta+Pusat,+Indonesia.&amp;aq=&amp;sll=-36.846586,174.768378&amp;sspn=0.098495,0.245647&amp;ie=UTF8&amp;hq=&amp;hnear=Jalan+Tanah+Abang+1,+Jakarta+Pusat,+Jakarta+10160,+Indonesia&amp;t=m&amp;z=14&amp;ll=-6.173004,106.82134&amp;output=embed"></iframe>
-				                	</article>
-					    		</div>
-					    		<div class="span4">
-					    			<p>
-										<strong>INDONESIA - Jakarta</strong><br>
-										No. 11F, Jln Tanah Abang 1,
-										10160 Jakarta Pusat,
-										Indonesia.
-									</p>
-									<p>
-										Web : www.iktrust.co.id<br>
-										Email : hello@iktrust.co.id<br>
-										Contact Person : Mr. Hendra<br>
-										[Skype] [Yahoo Messenger]<br>
-										Phone : +62 8128 0685 463
-							    	</p>
-					    		</div>
-					    		</p>
-					    	</div>
-					    	
+								</div>
+							</div>					    	
 					    </div>
 
 					    <div class="tab-pane" id="contact_tab3">
-					    	<h3>Finance</h3>
-							<p>
-							<div>
-								<strong>Work schedule :</strong> 
-								9 a.m. - 6 p.m.(GMT +3)
-								(Mon - Fri)
-							</div>
-							<div>
-								<strong>Email :</strong>
-								finance@iktrust.com
-							</div>
-							</p>
+					    	<div class="row-fluid">
+					    		<div class="span12 well">
+							    	<h3>Finance</h3>
+									<p>
+									<div>
+										<strong>Work schedule :</strong> 
+										9 a.m. - 6 p.m.(GMT +3)
+										(Mon - Fri)
+									</div>
+									<div>
+										<strong>Email :</strong>
+										finance@iktrust.com
+									</div>
+									</p>
+								</div>
+							</div>						
 					    </div>
 
 					    <div class="tab-pane" id="contact_tab4">
-					    	<h3>Partnership</h3>
-					    	<p>
-							<div>
-								<strong>Work schedule :</strong> 
-								9 a.m. - 6 p.m.(GMT +3)
-								(Mon - Fri)
+					    	<div class="row-fluid">
+					    		<div class="span12 well">
+							    	<h3>Partnership</h3>
+							    	<p>
+									<div>
+										<strong>Work schedule :</strong> 
+										9 a.m. - 6 p.m.(GMT +3)
+									</div>
+									<div>
+										(Mon - Fri)
+									</div>
+									<div>
+										<strong>Email :</strong>
+										partnership@iktrust.com
+									</div>
+									</p>
+								</div>
 							</div>
-							<div>
-								<strong>Email :</strong>
-								partnership@iktrust.com
-							</div>
-							</p>
 					    </div>
 
 					    <div class="tab-pane" id="contact_tab5">
@@ -178,51 +198,78 @@
 					    		<div class="span12">
 			    			        <div class="tabbable tabs-right"> <!-- Only required for left/right tabs -->
 									    <ul class="nav nav-tabs">
+									    	
 									    	<li class="active">
-									    		<a href="#tab1" data-toggle="tab">Indonesia</a>
+									    		<a href="#state_indo" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/indonesia.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Indonesia</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
 									    	</li>
 
 									    	<li>
-									    		<a href="#tab2" data-toggle="tab">Malaysia</a>
+									    		<a href="#state_malay" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/malaysia.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Malaysia</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
 									    	</li>
 
 									    	<li>
-									    		<a href="#tab3" data-toggle="tab">Philipines</a>
+									    		<a href="#state_philip" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/philipines.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Philipines</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
+
 									    	</li>
 									    </ul>
 
 									    <div class="tab-content">
-									    	<div class="tab-pane active" id="tab1">
+									    	<div class="tab-pane active" id="state_indo">
 									    		<div class="row-fluid">
-									    		<div class="span12">
-								    				<p><strong>INDONESIA SITE</strong></p>
-													Web :  www.iktrustphilippines.com
-													<br>
-													Email : admin@iktrustphilippines.com
-													<br>
-													Contact Person : Mr. Khairul
-													<br>
-													Phone : +63-9164406765
-									    		</div>
+										    		<div class="span12">
+									    				<p><strong>PT IK Internasional</strong></p>
+														<div>Web : www.iktrust.co.id</div>
+														<div>Email : hello@iktrust.co.id</div>
+														<div>Contact Person : Mr. Hendra</div>
+														<div>Phone : (+62) 8128 0685 463</div>
+										    		</div>
 									    		</div>
 									    	</div>
 
-									    	<div class="tab-pane" id="tab2">
+									    	<div class="tab-pane" id="state_malay">
 									    		
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 									    				<p><strong>Akfx System</strong></p>
-									    				Web :  www.akfx.my<br>
-														Email : support@akfx.my<br>
-														Contact Person : Mr. Asmadi<br>
-														Phone : +603-27273280
+									    				<div>Web :  www.akfx.my</div>
+														<div>Email : support@akfx.my</div>
+														<div>Contact Person : Mr. Asmadi</div>
+														<div>Phone : +603-27273280</div>
 										    		</div>
 
-										    		<div class="span6 well">										    	<p><strong>BM Technology Resources</strong><p>
-														Web :  www.bmtrust.biz<br>
-														Email : admin@bm-techno.com<br>
-														Contact Person : Mr. Matt<br>
-														Phone : +603-27273283<br>
+										    		<div class="span6 well">										    	
+										    			<p><strong>BM Technology Resources</strong><p>
+														<div>Web :  www.bmtrust.biz</div>
+														<div>Email : admin@bm-techno.com</div>
+														<div>Contact Person : Mr. Matt</div>
+														<div>Phone : +603-27273283</div>
 
 										    		</div>
 									    		</div>
@@ -230,51 +277,48 @@
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 										    			<p><strong>Dzanine Enterprise</strong></p>
-														Web :  www.iktrustfx.com<br>
-														Email : support@iktrustfx.com<br>
-														Contact Person : Mr. Zani<br>
-														Phone : +603-27273281
+														<div>Web :  www.iktrustfx.com</div>
+														<div>Email : support@iktrustfx.com</div>
+														<div>Contact Person : Mr. Zani</div>
+														<div>Phone : +603-27273281</div>
 										    		</div>
 
 										    		<div class="span6 well">
 										    			<p><strong>IKMalaya Worldwide</strong></p>
-														Web :  www.iktrustfxpro.com<br>
-														Email : support@iktrustfxpro.com<br>
-														Contact Person : Mr. Amir<br>
-														Phone : +603-27273284
+														<div>Web :  www.iktrustfxpro.com</div>
+														<div>Email : support@iktrustfxpro.com</div>
+														<div>Contact Person : Mr. Amir</div>
+														<div>Phone : +603-27273284</div>
 										    		</div>
 									    		</div>
 
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 										    			<p><strong>IK Market Technology</strong></p>
-														Web :  www.iktrust.my<br>
-														Email : support@iktrust.my<br>
-														Contact Person : Mr. Kyairil<br>
-														Phone : +603-27273288
+														<div>Web :  www.iktrust.my</div>
+														<div>Email : support@iktrust.my</div>
+														<div>Contact Person : Mr. Kyairil</div>
+														<div>Phone : +603-27273288</div>
 										    		</div>
 
 										    		<div class="span6 well">
 										    			<p><strong>Seri Technology</strong></p>
-														Web :  www.iktrustklcc.com<br>
-														Email : support@iktrustklcc.com<br>
-														Contact Person : Mr. Lukman<br>
-														Phone : +603-27273282
+														<div>Web :  www.iktrustklcc.com</div>
+														<div>Email : support@iktrustklcc.com</div>
+														<div>Contact Person : Mr. Lukman</div>
+														<div>Phone : +603-27273282</div>
 										    		</div>	
 									    		</div>
 									    	</div>
 
-									    	<div class="tab-pane" id="tab3">
+									    	<div class="tab-pane" id="state_philip">
 									    		<div class="row-fluid">
-									    		<div class="span10 well">
+									    		<div class="span12">
 								    				<p><strong>Pandinhaya Merchandise</strong></p>
-													Web :  www.iktrustphilippines.com
-													<br>
-													Email : admin@iktrustphilippines.com
-													<br>
-													Contact Person : Mr. Khairul
-													<br>
-													Phone : +63-9164406765
+													<div>Web :  www.iktrustphilippines.com</div>
+													<div>Email : admin@iktrustphilippines.com</div>
+													<div>Contact Person : Mr. Khairul</div>
+													<div>Phone : +63-9164406765</div>
 									    		</div>
 									    		</div>
 									    	</div>
@@ -282,11 +326,6 @@
 								    </div>
 					    		</div>
 					    	</div>
-
-
-					    
-
-
 					    	</p>
 					    </div>
 
@@ -295,34 +334,11 @@
         	</section>
 
             <!--sidebar-->
-            <aside id="sidebar" class="alignright span3">
-                <!--twitter -->
-                <section id="twitter-sidebar">
-                    <div class="title-divider">
-                        <div class="divider-arrow"></div>                               
-                        <h4>Twitter</h4>             
-                    </div>
-                    <div class="twitter"></div>
-                    <script type="text/javascript">
-                        $(document).ready(function(){
-                            //twitter
-                            $(".twitter").tweet({
-                                join_text: "auto",
-                                username: "iktrust",
-                                avatar_size:40,
-                                count: 2,
-                                auto_join_text_default: "we said,",
-                                auto_join_text_ed: "we",
-                                auto_join_text_ing: "we were",
-                                auto_join_text_reply: "we replied",
-                                auto_join_text_url: "we were checking out",
-                                loading_text: "loading tweets..."
-                            });
-                        });
-                    </script>
-                </section>
-            </aside>
-		</div>
-	</div>   
+            <div class="span3">
+                <?php echo $this->element('twitter_widget'); ?>
+            </div>
 
-</section>
+		</div>
+	</section>
+</div>   
+

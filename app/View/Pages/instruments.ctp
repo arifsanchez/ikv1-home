@@ -1,4 +1,6 @@
 
+<section id="container_instrument">
+
 <ul class="breadcrumb">
   <li>
   	<?php echo $this->Html->link('Home', array('controller'=>'pages','action' => 'index')); ?>
@@ -7,8 +9,7 @@
   <li><a href="#">Traders</a> <span class="divider">/</span></li>
   <li class="active">Trading Instruments</li>
 </ul>
-
-<section id="container_instrument">
+	
 	<div class="row-fluid">
 		<div class="span9">
 
@@ -180,13 +181,13 @@
 					    	<!-- End Table Header-->
 
 					    	<!-- Table Content-->
-					    	<tr align="center">
+					    	<tr>
 					    		<td>AUDUSD</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>0.52</td>
-					    		<td>-1.14</td>
+					    		<td>3</td>
+					    		<td>0.99</td>
+					    		<td>-1.19</td>
 					    	</tr>
 
 					    	<tr>
@@ -194,7 +195,7 @@
 					    		<td>10,000</td>
 					    		<td>3</td>
 					    		<td>3</td>
-					    		<td>-0.23</td>
+					    		<td>0.1</td>
 					    		<td>0.04</td>
 					    	</tr>
 
@@ -204,7 +205,7 @@
 					    		<td>3</td>
 					    		<td>4</td>
 					    		<td>0.02</td>
-					    		<td>-0.2</td>
+					    		<td>-0.37</td>
 					    	</tr>
 
 					    	<tr>
@@ -220,27 +221,27 @@
 					    		<td>USDCAD</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>-0.39</td>
-					    		<td>0.09</td>
+					    		<td>3</td>
+					    		<td>0.45</td>
+					    		<td>-0.58</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDCHF</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>0.05</td>
-					    		<td>-0.25</td>
+					    		<td>3</td>
+					    		<td>-0.01</td>
+					    		<td>-0.06</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDJPY</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>0.02</td>
-					    		<td>-0.14</td>
+					    		<td>3</td>
+					    		<td>0.03</td>
+					    		<td>-0.03</td>
 					    	</tr>
 					    	<!-- End Table Content-->
 					    </table>
@@ -268,190 +269,190 @@
 					    	<tr>
 					    		<td>AUDCAD</td>
 					    		<td>10,000</td>
-					    		<td>9</td>
 					    		<td>10</td>
-					    		<td>0.38</td>
-					    		<td>-0.81</td>
+					    		<td>10</td>
+					    		<td>0.9</td>
+					    		<td>-1.36</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>AUDCHF</td>
 					    		<td>10,000</td>
-					    		<td>14</td>
-					    		<td>15</td>
-					    		<td>0.63</td>
-					    		<td>-1.19</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>0.87</td>
+					    		<td>-1.31</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>AUDJPY</td>
 					    		<td>10,000</td>
-					    		<td>4</td>
-					    		<td>5</td>
-					    		<td>0.56</td>
-					    		<td>-1.4</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>0.71</td>
+					    		<td>-1.06</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>AUDNZD</td>
 					    		<td>10,000</td>
-					    		<td>29</td>
-					    		<td>60</td>
-					    		<td>0.02</td>
-					    		<td>-0.3</td>
+					    		<td>12</td>
+					    		<td>12</td>
+					    		<td>0.5</td>
+					    		<td>-0.75</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>CADCHF</td>
 					    		<td>10,000</td>
-					    		<td>9</td>
 					    		<td>10</td>
-					    		<td>0.09</td>
-					    		<td>-0.56</td>
+					    		<td>10</td>
+					    		<td>0.05</td>
+					    		<td>-0.07</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>CADJPY</td>
 					    		<td>10,000</td>
-					    		<td>9</td>
 					    		<td>10</td>
-					    		<td>0.09</td>
-					    		<td>-0.36</td>
+					    		<td>10</td>
+					    		<td>0.02</td>
+					    		<td>-0.04</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>CHFJPY</td>
 					    		<td>10,000</td>
-					    		<td>5</td>
-					    		<td>15</td>
-					    		<td>-0.1</td>
-					    		<td>0.007</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>0.02</td>
+					    		<td>-0.03</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>EURAUD</td>
 					    		<td>10,000</td>
-					    		<td>11</td>
-					    		<td>25</td>
-					    		<td>-1.42</td>
-					    		<td>0.72</td>
+					    		<td>7</td>
+					    		<td>7</td>
+					    		<td>-1.16</td>
+					    		<td>1.16</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>EURCAD</td>
 					    		<td>10,000</td>
-					    		<td>9</td>
-					    		<td>10</td>
-					    		<td>-0.6</td>
-					    		<td>0.16</td>
+					    		<td>12</td>
+					    		<td>12</td>
+					    		<td>0.28</td>
+					    		<td>-0.28</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>EURCHF</td>
 					    		<td>10,000</td>
-					    		<td>4</td>
-					    		<td>8</td>
-					    		<td>0.01</td>
-					    		<td>-0.07</td>
+					    		<td>3</td>
+					    		<td>6</td>
+					    		<td>-0.3</td>
+					    		<td>-0.3</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>EURGBP</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>6</td>
-					    		<td>-0.21</td>
+					    		<td>3</td>
 					    		<td>0.03</td>
+					    		<td>-0.11</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>EURJPY</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>-0.1</td>
-					    		<td>-0.03</td>
+					    		<td>3</td>
+					    		<td>0.08</td>
+					    		<td>-0.2</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>EURNZD</td>
 					    		<td>10,000</td>
-					    		<td>24</td>
-					    		<td>50</td>
-					    		<td>-2.38</td>
-					    		<td>1.2</td>
+					    		<td>12</td>
+					    		<td>12</td>
+					    		<td>-0.7</td>
+					    		<td>0.7</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>GBPAUD</td>
 					    		<td>10,000</td>
-					    		<td>19</td>
-					    		<td>20</td>
-					    		<td>-1.46</td>
-					    		<td>0.9</td>
+					    		<td>12</td>
+					    		<td>12</td>
+					    		<td>-1.92</td>
+					    		<td>1.28</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>GBPCAD</td>
 					    		<td>10,000</td>
-					    		<td>14</td>
-					    		<td>15</td>
-					    		<td>-0.45</td>
+					    		<td>12</td>
+					    		<td>12</td>
 					    		<td>0.09</td>
+					    		<td>-0.13</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>GBPCHF</td>
 					    		<td>10,000</td>
 					    		<td>7</td>
-					    		<td>8</td>
-					    		<td>0.12</td>
-					    		<td>-0.35</td>
+					    		<td>7</td>
+					    		<td>0.2</td>
+					    		<td>-0.2</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>GBPJPY</td>
 					    		<td>10,000</td>
 					    		<td>7</td>
-					    		<td>8</td>
-					    		<td>0.05</td>
-					    		<td>-0.3</td>
+					    		<td>7</td>
+					    		<td>0.13</td>
+					    		<td>-0.13</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>GBPNZD</td>
 					    		<td>10,000</td>
-					    		<td>34</td>
-					    		<td>70</td>
-					    		<td>-1.37</td>
-					    		<td>0.7</td>
+					    		<td>12</td>
+					    		<td>12</td>
+					    		<td>-13.4</td>
+					    		<td>8.9</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>NZDCAD</td>
 					    		<td>10,000</td>
-					    		<td>14</td>
-					    		<td>15</td>
-					    		<td>0.21</td>
-					    		<td>-0.63</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>3.9</td>
+					    		<td>-5.8</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>NZDCHF</td>
 					    		<td>10,000</td>
-					    		<td>19</td>
-					    		<td>20</td>
-					    		<td>0.44</td>
-					    		<td>-0.84</td>
+					    		<td>3</td>
+					    		<td>3</td>
+					    		<td>4.5</td>
+					    		<td>-5.8</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>NZDJPY</td>
 					    		<td>10,000</td>
-					    		<td>14</td>
-					    		<td>15</td>
-					    		<td>0.36</td>
-					    		<td>-0.71</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>0.439</td>
+					    		<td>-0.39</td>
 					    	</tr>
 					    	<!-- End Table Content-->
 					    </table>
@@ -584,6 +585,5 @@
 		<div class="span3 alert">
 			<?php echo $this->element('content_widget_satu'); ?>
 		</div>
-
 	</div>
 </section>
