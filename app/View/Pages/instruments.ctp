@@ -196,25 +196,25 @@
 					    		<td>3</td>
 					    		<td>3</td>
 					    		<td>0.1</td>
-					    		<td>0.04</td>
+					    		<td>-0.37</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>GBPUSD</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>0.02</td>
-					    		<td>-0.37</td>
+					    		<td>3</td>
+					    		<td>0.01</td>
+					    		<td>-0.21</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>NZDUSD</td>
 					    		<td>10,000</td>
 					    		<td>3</td>
-					    		<td>4</td>
-					    		<td>0.44</td>
-					    		<td>-0.76</td>
+					    		<td>3</td>
+					    		<td>0.45</td>
+					    		<td>-0.58</td>
 					    	</tr>
 
 					    	<tr>
@@ -222,8 +222,8 @@
 					    		<td>10,000</td>
 					    		<td>3</td>
 					    		<td>3</td>
-					    		<td>0.45</td>
-					    		<td>-0.58</td>
+					    		<td>-0.31</td>
+					    		<td>0.15</td>
 					    	</tr>
 
 					    	<tr>
@@ -481,91 +481,91 @@
 					    	<tr>
 					    		<td>USDCZK</td>
 					    		<td>10,000</td>
-					    		<td>65</td>
-					    		<td>150</td>
-					    		<td>-0.14</td>
-					    		<td>0.01</td>
+					    		<td>25</td>
+					    		<td>25</td>
+					    		<td>-4</td>
+					    		<td>-4</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDDKK</td>
 					    		<td>10,000</td>
-					    		<td>100</td>
-					    		<td>100</td>
-					    		<td>0.04</td>
-					    		<td>-0.96</td>
+					    		<td>6</td>
+					    		<td>6</td>
+					    		<td>0.06</td>
+					    		<td>-1.57</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDHKD</td>
 					    		<td>10,000</td>
-					    		<td>20</td>
-					    		<td>25</td>
-					    		<td>0.01</td>
-					    		<td>-0.34</td>
+					    		<td>5</td>
+					    		<td>5</td>
+					    		<td>-0.8</td>
+					    		<td>-0.8</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDHUF</td>
 					    		<td>10,000</td>
-					    		<td>70</td>
-					    		<td>150</td>
-					    		<td>-2.39</td>
-					    		<td>-1.38</td>
+					    		<td>50</td>
+					    		<td>50</td>
+					    		<td>-8</td>
+					    		<td>-8</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDMXN</td>
 					    		<td>10,000</td>
-					    		<td>15</td>
-					    		<td>30</td>
-					    		<td>-1.72</td>
-					    		<td>0.6</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>-1.6</td>
+					    		<td>-1.6</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDNOK</td>
 					    		<td>10,000</td>
-					    		<td>100</td>
-					    		<td>100</td>
-					    		<td>-0.82</td>
-					    		<td>0.18</td>
+					    		<td>5</td>
+					    		<td>5</td>
+					    		<td>0.81</td>
+					    		<td>-1.9</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDPLN</td>
 					    		<td>10,000</td>
-					    		<td>65</td>
-					    		<td>150</td>
-					    		<td>-1.79</td>
-					    		<td>0.7</td>
+					    		<td>75</td>
+					    		<td>75</td>
+					    		<td>-12</td>
+					    		<td>-12</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDSEK</td>
 					    		<td>10,000</td>
-					    		<td>200</td>
-					    		<td>300</td>
-					    		<td>-0.59</td>
-					    		<td>0.12</td>
+					    		<td>7</td>
+					    		<td>7</td>
+					    		<td>1.1</td>
+					    		<td>-3</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDSGD</td>
 					    		<td>10,000</td>
-					    		<td>15</td>
-					    		<td>15</td>
-					    		<td>-0.13</td>
-					    		<td>-0.13</td>
+					    		<td>10</td>
+					    		<td>10</td>
+					    		<td>-1.6</td>
+					    		<td>-1.6</td>
 					    	</tr>
 
 					    	<tr>
 					    		<td>USDZAR</td>
 					    		<td>10,000</td>
-					    		<td>250</td>
-					    		<td>250</td>
-					    		<td>-2.59</td>
-					    		<td>0.9</td>
+					    		<td>120</td>
+					    		<td>120</td>
+					    		<td>-11.15</td>
+					    		<td>5.45</td>
 					    	</tr>
 					    	<!-- End Table Content-->
 					    </table>
