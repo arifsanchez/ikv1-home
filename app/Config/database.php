@@ -1,8 +1,18 @@
 <?php
 class DATABASE_CONFIG {
 	
+	var $aliranpertama = array(
+			'datasource' => 'Database/Mysql',
+			'persistent' => false,
+			'host' => 'us-cdbr-east-03.cleardb.com',
+			'login' => 'b85eadea7f676c',
+			'password' => '11fd9bdd',
+			'database' => 'heroku_9f2a562c4bcc93f',
+			'prefix' => '',
+			'encoding' => 'utf8',
+	);
 
-	var $production = array(
+	var $alirankedua = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'us-cdbr-east-03.cleardb.com',
@@ -14,24 +24,12 @@ class DATABASE_CONFIG {
 		'encoding' => 'utf8',
 	);
 	
-	var $development = array(
-		'datasource' => 'Database/Mysql',
-		'persistent' => false,
-		'host' => 'localhost',
-		'login' => 'root',
-		'password' => '',
-		'database' => 'the_xe_test',
-		'prefix' => '',
-		'port' => '',
-		'encoding' => 'utf8',
-	);
-
 	public function __construct()
 	{
-	    if (!$_SERVER['SERVER_NAME'] == 'localhost') {
-	        $this->default = $this->production;
+	    if ($_SERVER['SERVER_NAME'] == 'iktrust.co.nz') {
+	        $this->default = $this->aliranpertama;
 	    } else {
-	        $this->default = $this->production;
+	        $this->default = $this->alirankedua;
 	    }
 	}
 
