@@ -2,16 +2,16 @@
     <div class="container">
     	
         	<p style="text-align:center;">
-	        	<a style="color:#ffffff" href="#">LEGAL INFORMATION</a> | <a style="color:#ffffff" href="#">PRIVACY POLICY</a> | <a style="color:#ffffff" href="#">RISK DISCLOSURE</a>
+                <?php echo $this->Html->link('LEGAL INFORMATION', array('controller' => 'pages', 'action' => 'legal_info'));?>&nbsp;|&nbsp;
+                <?php echo $this->Html->link('PRIVACY POLICY', array('controller' => 'pages', 'action' => 'privacy_policy'));?>&nbsp;|&nbsp;
+                <?php echo $this->Html->link('RISK DISCLOSURE', array('controller' => 'pages', 'action' => 'risk_disclosure'));?> 
 	        </p>
 
 <p style="font-size:12px; text-align:center;">
 <strong>
-<span lang="MS">
 © Copyright 2012 . All Rights Reserved . IK Trust Capital Market Corporation Limited . Secured & Trusted Regulated Broker .
 <br>
 New Zealand Company Reg. No. 3851316
-</span>
 </strong>
 <p>
 Notice : Trading foreign exchange on margin carries high potential rewards but also high potential risks that may not be suitable for all investors. Before deciding to trade foreign exchange, you should carefully consider your investment objectives, level of experience and risk appetite. Past performance is not indicative of future results, which can vary due to market volatility. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading and seek advice from an independent financial advisor if you have any doubts.
