@@ -52,9 +52,9 @@
                 <ul class="pricing_column gradient_blue">
                     <li class="pricing_header1">Mini</li>
                     <li class="pricing_header2"><span>From&nbsp;</span>$10</li>
-                    <li class="odd" data-table="Spread">Fixed, from 3 pip(s)</li>
+                    <li class="odd" data-table="Spread">Fixed &amp; Flexible, from 3 pip(s)</li>
                     <li class="even" data-table="Pricing Decimals">4 Decimals, 5 Decimals</li>
-                    <li class="odd" data-table="Leverage">1:100, 1:333, 1:666, 1:888, 1:1000</li>
+                    <li class="odd" data-table="Leverage">1:100, 1:200, 1:500, 1:1000</li>
                     <li class="even" data-table="Symbols">Forex Fix &amp; Flex</li>
                     <li class="odd" data-table="Minimum Deposit">$10</li>
                     <li class="even" data-table="Recomm. Deposit">$50</li>
@@ -63,9 +63,9 @@
                     <li class="odd" data-table="Contract Size">10,000</li>
                     <li class="even" data-table="Min Lot">0.01 </li>
                     <li class="odd" data-table="Min Step">0.01</li>
-                    <li class="even" data-table="Max No Order">20</li>
-                    <li class="odd" data-table="Margin Call Level">50%</li>
-                    <li class="even" data-table="Stop Out Level">30%</li>
+                    <li class="even" data-table="Max No Order">10</li>
+                    <li class="odd" data-table="Margin Call Level">55%</li>
+                    <li class="even" data-table="Stop Out Level">33%</li>
                     <li class="odd" data-table="Execution Type">MARKET Execution</li>
                     <li class="even" data-table="Bonus &amp; Adv">Deposit Bonus 40%</li>
 
@@ -89,11 +89,11 @@
                     <li class="even" data-table="Swap-Free Acc (Islamic)">YES</li>
                     <li class="odd" data-table="Contract Size">10,000</li>
                     <li class="even" data-table="Min Lot">0.10</li>
-                    <li class="odd" data-table="Min Step">0.05</li>
-                    <li class="even" data-table="Max No Order">Unlimited</li>
-                    <li class="odd" data-table="Margin Call Level">80%</li>
-                    <li class="even" data-table="Stop Out Level">40%</li>
-                    <li class="odd" data-table="Execution Type">INSTANT Execution</li>
+                    <li class="odd" data-table="Min Step">0.01</li>
+                    <li class="even" data-table="Max No Order">10</li>
+                    <li class="odd" data-table="Margin Call Level">88%</li>
+                    <li class="even" data-table="Stop Out Level">44%</li>
+                    <li class="odd" data-table="Execution Type">MARKET Execution</li>
                     <li class="even" data-table="Bonus &amp; Adv">ECN Processing,Segregated Account</li>
 
                     <li class="pricing_footer"><a href="#" class="pricing_button">Open Standard Account</a></li>
@@ -115,11 +115,11 @@
                     <li class="even" data-table="Swap-Free Acc (Islamic)">YES</li>
                     <li class="odd" data-table="Contract Size">10,000</li>
                     <li class="even" data-table="Min Lot">1.00</li>
-                    <li class="odd" data-table="Min Step">0.5</li>
-                    <li class="even" data-table="Max No Order">Unlimited</li>
-                    <li class="odd" data-table="Margin Call Level">100%</li>
-                    <li class="even" data-table="Stop Out Level">50%</li>
-                    <li class="odd" data-table="Execution Type">INSTANT Execution</li>
+                    <li class="odd" data-table="Min Step">0.10</li>
+                    <li class="even" data-table="Max No Order">20</li>
+                    <li class="odd" data-table="Margin Call Level">110%</li>
+                    <li class="even" data-table="Stop Out Level">55%</li>
+                    <li class="odd" data-table="Execution Type">MARKET Execution</li>
                     <li class="even" data-table="Bonus &amp; Adv">ECN Processing, Segregated Account</li>
 
                     <li class="pricing_footer"><a href="#" class="pricing_button"> Open Premium Account</a></li>
