@@ -70,7 +70,7 @@
                     <li class="even" data-table="Bonus &amp; Adv">Deposit Bonus 40%</li>
 
 
-                    <li class="pricing_footer"><a href="#" class="pricing_button">Open Mini Account</a></li>
+                    <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button">Open Mini Account</a></li>
                 </ul>
                 <!-- END FIRST CONTENT COLUMN -->
 
@@ -96,7 +96,7 @@
                     <li class="odd" data-table="Execution Type">MARKET Execution</li>
                     <li class="even" data-table="Bonus &amp; Adv">ECN Processing,Segregated Account</li>
 
-                    <li class="pricing_footer"><a href="#" class="pricing_button">Open Standard Account</a></li>
+                    <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button">Open Standard Account</a></li>
                 </ul>
                 <!-- END SECOND CONTENT COLUMN -->
 
@@ -113,7 +113,7 @@
                     <li class="even" data-table="Recomm. Deposit">$25,000</li>
                     <li class="odd" data-table="Acc Base Currency">USD</li>
                     <li class="even" data-table="Swap-Free Acc (Islamic)">YES</li>
-                    <li class="odd" data-table="Contract Size">10,000</li>
+                    <li class="odd" data-table="Contract Size">100,000</li>
                     <li class="even" data-table="Min Lot">1.00</li>
                     <li class="odd" data-table="Min Step">0.10</li>
                     <li class="even" data-table="Max No Order">20</li>
@@ -122,7 +122,7 @@
                     <li class="odd" data-table="Execution Type">MARKET Execution</li>
                     <li class="even" data-table="Bonus &amp; Adv">ECN Processing, Segregated Account</li>
 
-                    <li class="pricing_footer"><a href="#" class="pricing_button"> Open Premium Account</a></li>
+                    <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button"> Open Premium Account</a></li>
                 </ul><!-- END THIRD CONTENT COLUMN -->
             </div><!-- END HOVER AREA -->
         </div><!-- END TABLE CONTAINER -->
