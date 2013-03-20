@@ -87,7 +87,7 @@
                     <li class="even" data-table="Recomm. Deposit">$2500</li>
                     <li class="odd" data-table="Acc Base Currency">USD</li>
                     <li class="even" data-table="Swap-Free Acc (Islamic)">YES</li>
-                    <li class="odd" data-table="Contract Size">10,000</li>
+                    <li class="odd" data-table="Contract Size">100,000</li>
                     <li class="even" data-table="Min Lot">0.10</li>
                     <li class="odd" data-table="Min Step">0.01</li>
                     <li class="even" data-table="Max No Order">10</li>
