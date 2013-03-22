@@ -67,7 +67,7 @@
                     <li class="odd" data-table="Margin Call Level">55%</li>
                     <li class="even" data-table="Stop Out Level">33%</li>
                     <li class="odd" data-table="Execution Type">MARKET Execution</li>
-                    <li class="even" data-table="Bonus &amp; Adv">Deposit Bonus 40%</li>
+                    <li class="even" data-table="Bonus &amp; Adv">Bonus up to 40%</li>
 
 
                     <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button">Open Mini Account</a></li>
@@ -94,7 +94,7 @@
                     <li class="odd" data-table="Margin Call Level">88%</li>
                     <li class="even" data-table="Stop Out Level">44%</li>
                     <li class="odd" data-table="Execution Type">MARKET Execution</li>
-                    <li class="even" data-table="Bonus &amp; Adv">ECN Processing,Segregated Account</li>
+                    <li class="even" data-table="Bonus &amp; Adv">Bonus up to 15%</li>
 
                     <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button">Open Standard Account</a></li>
                 </ul>
@@ -120,7 +120,7 @@
                     <li class="odd" data-table="Margin Call Level">110%</li>
                     <li class="even" data-table="Stop Out Level">55%</li>
                     <li class="odd" data-table="Execution Type">MARKET Execution</li>
-                    <li class="even" data-table="Bonus &amp; Adv">ECN Processing, Segregated Account</li>
+                    <li class="even" data-table="Bonus &amp; Adv">Bonus up to 10%</li>
 
                     <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button"> Open Premium Account</a></li>
                 </ul><!-- END THIRD CONTENT COLUMN -->
