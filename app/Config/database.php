@@ -27,7 +27,7 @@ class DATABASE_CONFIG {
 	public function __construct()
 	{
 	    if ($_SERVER['SERVER_NAME'] == 'iktrust.co.nz') {
-	        $this->default = $this->aliranpertama;
+	        $this->default = $this->alirankedua;
 	    } else {
 	        $this->default = $this->alirankedua;
 	    }
