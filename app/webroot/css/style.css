@@ -2262,7 +2262,7 @@ textarea.error {border: 1px solid #ff3f3f;}
     border-bottom: 1px solid #f79f73;
 }
 
-/* Back to Top 
+/*Back to Top  */
 #toTop {
     background: url("../img/ui.totop.png") no-repeat scroll left top transparent;
     border: medium none;
@@ -2285,7 +2285,7 @@ textarea.error {border: 1px solid #ff3f3f;}
     overflow: hidden;
     width: 40px;
     
-    */
+   
 }
 #toTop:active, #toTop:focus {
     outline: medium none;
