@@ -1,4 +1,4 @@
-/*!
+ /*!
  * Bootstrap v2.1.0
  *
  * Copyright 2012 Twitter, Inc
@@ -804,7 +804,7 @@ table {
 .table td {
   padding: 8px;
   line-height: 20px;
-  text-align: left;
+  text-align: center;
   vertical-align: top;
   border-top: 1px solid #dddddd;
 }
@@ -2162,7 +2162,7 @@ input[type="submit"].btn.btn-mini {
   line-height: 14px;
   margin-right: 8px;
   vertical-align: text-top;
-  background-image: url("../images/glyphicons-halflings.png");
+  background-image: url("../img/glyphicons-halflings.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
   margin-top: 1px;
@@ -2175,7 +2175,7 @@ input[type="submit"].btn.btn-mini {
 .dropdown-menu > li > a:hover > [class*=" icon-"],
 .dropdown-menu > .active > a > [class^="icon-"],
 .dropdown-menu > .active > a > [class*=" icon-"] {
-  background-image: url("../images/glyphicons-halflings-white.png");
+  background-image: url("../img/glyphicons-halflings-white.png");
 }
 .icon-glass {
   background-position: 0      0;

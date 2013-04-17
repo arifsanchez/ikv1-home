@@ -52,8 +52,31 @@
             </ul>
         </li>
         -->
+        <li class="current"><a href="#">Company</a>
+            <ul>
+                <li><?php echo $this->Html->link('About Us', array('controller'=>'pages','action' => 'about_us'));?></li>
+            </ul>
+        </li>
+        <li><a href="#"><span class="name">Traders</span></a>
+            <ul>
+                <li><?php echo $this->Html->link('Account Types', array('controller'=>'pages','action' => 'account-types'));?></li>
+                <li><?php echo $this->Html->link('Trading Platform', array('controller'=>'pages','action' => 'trading_platform'));?></li>
+                <li><?php echo $this->Html->link('Instruments', array('controller'=>'pages','action' => 'instruments'));?></li>
+            </ul>
+        </li>
         <li>
-            <?php echo $this->Html->link('Support', array('support'));?>
+            <?php echo $this->Html->link('Support Centre', '#');?>
+            <ul>
+                <li><?php echo $this->Html->link('Support Form', 'http://support.iktrust.com/');?></li>
+                <li><?php echo $this->Html->link('Service News', 'http://support.iktrust.com/news');?></li>
+                <li><?php echo $this->Html->link('Downloads', 'http://support.iktrust.com/downloads');?></li>
+                <li><?php echo $this->Html->link('Knowledgebase (FAQ)', 'http://support.iktrust.com/kb');?></li>
+                <li class="last"><?php echo $this->Html->link('Suggestion Form', 'http://support.iktrust.com/feedback');?></li>
+            </ul>
+        </li>
+
+        <li>
+            <?php echo $this->Html->link('Representatives', array('controller'=>'pages','action' => 'representatives'));?>
         </li>
 
     </ul>
