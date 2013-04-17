@@ -35,12 +35,6 @@
                 <li class="odd"><span>Contract Size, $</span></li>
                 <li class="even"><span>Minimum Lot</span></li>
                 <li class="odd"><span>Minimum Step</span></li>
-                <li class="even"><span>Max. Number Of Orders</span></li>
-                <li class="odd"><span>Margin Call Level</span></li>
-                <li class="even"><span>Stop Out Level</span></li>
-                <li class="odd"><span>Execution Type</span></li>
-                <li class="even"><span>Bonuses and Advantages</span></li>
-
 
                 <li class="pricing_footer"></li>
             </ul><!-- END DESCRIPTION COLUMN -->
@@ -63,12 +57,7 @@
                     <li class="odd" data-table="Contract Size">10,000</li>
                     <li class="even" data-table="Min Lot">0.01 </li>
                     <li class="odd" data-table="Min Step">0.01</li>
-                    <li class="even" data-table="Max No Order">10</li>
-                    <li class="odd" data-table="Margin Call Level">55%</li>
-                    <li class="even" data-table="Stop Out Level">33%</li>
-                    <li class="odd" data-table="Execution Type">MARKET Execution</li>
-                    <li class="even" data-table="Bonus &amp; Adv">Bonus up to 40%</li>
-
+                    
 
                     <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button">Open Mini Account</a></li>
                 </ul>
@@ -90,11 +79,7 @@
                     <li class="odd" data-table="Contract Size">100,000</li>
                     <li class="even" data-table="Min Lot">0.10</li>
                     <li class="odd" data-table="Min Step">0.01</li>
-                    <li class="even" data-table="Max No Order">10</li>
-                    <li class="odd" data-table="Margin Call Level">88%</li>
-                    <li class="even" data-table="Stop Out Level">44%</li>
-                    <li class="odd" data-table="Execution Type">MARKET Execution</li>
-                    <li class="even" data-table="Bonus &amp; Adv">Bonus up to 15%</li>
+                   
 
                     <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button">Open Standard Account</a></li>
                 </ul>
@@ -116,11 +101,7 @@
                     <li class="odd" data-table="Contract Size">100,000</li>
                     <li class="even" data-table="Min Lot">1.00</li>
                     <li class="odd" data-table="Min Step">0.10</li>
-                    <li class="even" data-table="Max No Order">20</li>
-                    <li class="odd" data-table="Margin Call Level">110%</li>
-                    <li class="even" data-table="Stop Out Level">55%</li>
-                    <li class="odd" data-table="Execution Type">MARKET Execution</li>
-                    <li class="even" data-table="Bonus &amp; Adv">Bonus up to 10%</li>
+                    
 
                     <li class="pricing_footer"><a href="http://support.iktrust.com/downloads/files/35-view/download" class="pricing_button"> Open Premium Account</a></li>
                 </ul><!-- END THIRD CONTENT COLUMN -->
