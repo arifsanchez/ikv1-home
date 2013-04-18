@@ -10920,3 +10920,459 @@ Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
 Stack Trace:
 #0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-04-17 05:57:49 Error: [MissingControllerException] Controller class Mt4pricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4pricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/mt4prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 01:57:49 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 01:57:49 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/mt4prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 05:57:53 Error: [MissingControllerException] Controller class Mt4pricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4pricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/mt4prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 01:57:53 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 01:57:53 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/mt4prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 05:58:26 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 01:58:27 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 01:58:27 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 05:58:30 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 01:58:30 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 01:58:30 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:02:32 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:02:33 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:02:33 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:02:35 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:02:35 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:02:35 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:03:09 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:03:10 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:03:10 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:03:12 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:03:12 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:03:12 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:04:14 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:04:15 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:04:15 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:04:18 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:04:18 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:04:18 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:05:41 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices/index.php
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:05:44 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:05:44 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices/index.php
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:05:45 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices/index.php
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 06:05:46 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:05:46 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:05:46 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices/index.php
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:05:49 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:05:49 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:05:50 Error: [MissingControllerException] Controller class Mt4PricesController could not be found.
+Exception Attributes: array (
+  'class' => 'Mt4PricesController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/Mt4Prices/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 02:05:52 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:05:52 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/Mt4Prices/index
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:05:54 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:05:54 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:05:58 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:05:58 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:00 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:00 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:02 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:02 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:07 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:07 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:10 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:10 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:41 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:41 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:44 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:44 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:54 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:54 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 02:06:56 Error: Fatal Error (64): Cannot redeclare class Mt4PricesController in [/Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/Controller/Mt4PriceController.php, line 99]
+2013-04-17 02:06:56 Error: [FatalErrorException] Cannot redeclare class Mt4PricesController
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Error/ErrorHandler.php(183): ErrorHandler::handleFatalError(64, 'Cannot redeclar...', '/Applications/X...', 99)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 64, 'Cannot redeclar...', '/Applications/X...', 99, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-04-17 06:08:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 06:11:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 06:50:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-17 12:28:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 04:50:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 05:24:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 06:08:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 06:11:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 06:19:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-04-18 06:37:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

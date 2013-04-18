@@ -1,4 +1,7 @@
-<?php echo $this->element('newsticker'); ?>
+
+<section id="container">
+    <?php echo $this->element('newsticker'); ?>
+</section>
 
 <!--
  <nav id="secondary" class="hidden-phone">
