@@ -7,6 +7,7 @@ App::uses('AppController', 'Controller');
  */
 class Mt4PricesController extends AppController {
 
+
 /**
  * index method
  *
@@ -94,4 +95,15 @@ class Mt4PricesController extends AppController {
 		$this->Session->setFlash(__('Mt4 price was not deleted'));
 		$this->redirect(array('action' => 'index'));
 	}
+	
+	public function quote(){
+		if (empty($this->request->params['requested'])) {
+            throw new ForbiddenException();
+        }
+        
+        $result = $this->Mt4Price->find('all', array ('conditions' => array ("OR" => array ("Mt4Price.SYMBOL LIKE" => "%#%"))));
+        return $result;
+	}
+
+
 }

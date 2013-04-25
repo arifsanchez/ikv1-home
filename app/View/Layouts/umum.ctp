@@ -16,7 +16,6 @@
     <?php 
 
       echo $this->Html->css('bootstrap.css');
-      
       echo $this->Html->css('font-awesome-ie7.css');
       echo $this->Html->css('font-awesome.css');
       echo $this->Html->css('style.css');
@@ -75,6 +74,8 @@
 <section class="message-top">
     <div>
                <div class="notification container">
+               
+               
                    <!--a href="#myModal" role="button" data-toggle="modal" class="btn btn-large btn-danger pull-right">Sign Up</a-->
 
                    <!--a href="#myModal2" role="button" data-toggle="modal" class="btn btn-large btn-info pull-right">Sign In</a-->
@@ -150,6 +151,7 @@
 <header id="header">
     <div class="container">
         <div class="row">
+        
             <div class="span3 logo">
                 <?php echo $this->Html->image("main-logo.png", array(
     "alt" => "IK Trust Capital Market Corporation Ltd.",
@@ -160,7 +162,7 @@
             <?php echo $this->element('main-menu'); ?>
 
         </div>
-
+<?php echo $this->element('stockmarket'); ?>
     </div>
 </header>
 
