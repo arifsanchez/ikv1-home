@@ -19,7 +19,7 @@ echo $this->Html->script('newsticker.jquery.min');
 		$('#newsticker_1').newsticker( {
 		
 			  'style'         : 'fade',
-              'tickerTitle'   : 'Latest News',
+              'tickerTitle'   : 'News',
               'feeds'         : 'http://support.iktrust.com/news.rss',
               'feedItems'     : 5,
               'feedFormat'    : '<a href="%link%">%title%</a> posted %timeago%.', // Format that each news item will take              

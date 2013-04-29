@@ -13989,3 +13989,12 @@ Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
 Stack Trace:
 #0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-04-29 02:53:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ikv1-home/css/fullwidth/fullwidth/skin.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
