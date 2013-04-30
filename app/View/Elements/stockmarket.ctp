@@ -108,10 +108,14 @@ div.stockTicker span.quote {
                 <div id="ticker" class="stockTicker">
                 
                 <?php foreach ($quotes as $quote) { ?>
+                
+               
+                
 	              <span class="quote">
-	              <? if ($quote['Mt4Price']['DIRECTION'] == 1){ $d = 'up';}else { $d = 'turun'; }; ?>
+	             <? if ($quote['Mt4Price']['DIRECTION'] == 1){ $d = 'up';}else { $d = 'turun'; }; ?>
+	             
 	                	<span class="<? echo $d; ?>"><span class="quote"><?php echo str_replace("#"," ", $quote['Mt4Price']['SYMBOL']); ?></span>
-	                	<? echo $quote['Mt4Price']['BID']; ?> &nbsp; <? echo $quote['Mt4Price']['ASK'];?></span>
+	                	<? echo number_format($quote['Mt4Price']['BID'], 5, '.', ''); ?> &nbsp; <? echo number_format($quote['Mt4Price']['ASK'], 5, '.', '');?></span>
 	             <? } ?>
                 </span> 
                     
