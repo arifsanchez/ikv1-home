@@ -167,7 +167,7 @@
 </header>
 
 <?php if($this->request->params['pass'][0] == 'utama'){ ?>
-    <?php echo $this->element('slider'); ?>
+    <?php echo $this->element('layar'); ?>
 <?php }?>
 
 <section id="container">
