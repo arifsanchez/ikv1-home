@@ -23,25 +23,25 @@
 							<a class="btn btn-large btn-danger span2" href="#">Click Here <br />For More Info</a>
 						</div>
 							
-						<img class="ipad" src="img/slider/banner-a/icons.png" />
+						<img class="ipad" src="img/slider/banner1/icons.png" />
 						
-						<img class="iphone" src="img/slider/banner-a/barclaysban.png"  />
+						<img class="iphone" src="img/slider/banner1/barclay.png"  />
 						
 					</li>
 					<li>
-						<img class="ipad" src="img/slider/banner-b/franklin.png" />
-						<img class="iphone2" src="img/slider/banner-b/headers.png" />
+						<img class="ipad" src="img/slider/banner2/frank.png" />
+						<img class="iphone2" src="img/slider/banner2/header.png" />
 								
 					</li>
 					<li>
 						
-						<img class="ipad" src="img/slider/banner-c/bannermain.png" />
+						<img class="ipad" src="img/slider/banner3/bannermain.png" />
 						
 						<div class="slide3">
 							<a class="btn btn-large btn-danger span2" href="#">Click Here For More Info</a>
 						</div>
 						
-						<img class="iphone4" src="img/slider/banner-c/mindmap.png" />
+						<img class="iphone4" src="img/slider/banner3/mindmap.png" />
 						
 					</li>
 				</ul>
@@ -50,7 +50,6 @@
 		</div>
           
  <!-- /Lush FlexSlider -->
- 
           <script>
 				  $(document).ready(function(){
 				    $status = $(".status");
