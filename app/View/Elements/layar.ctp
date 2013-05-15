@@ -20,7 +20,9 @@
 				<ul class="sequence-canvas">
 					<li class="animate-in">
 						<div class="slide2">
-							<a class="btn btn-large btn-danger span2" href="#">Click Here <br />For More Info</a>
+							<a href="#">
+								<img src="img/slider/banner1/buttonhere.png">
+							</a>
 						</div>
 							
 						<img class="ipad" src="img/slider/banner1/icons.png" />
@@ -38,8 +40,9 @@
 						<img class="ipad" src="img/slider/banner3/bannermain.png" />
 						
 						<div class="slide3">
-							<a class="btn btn-large btn-danger span2" href="#">Click Here For More Info</a>
-						</div>
+							<a href="#">
+								<img src="img/slider/banner1/buttonhere.png" width="77%">
+							</a>						</div>
 						
 						<img class="iphone4" src="img/slider/banner3/mindmap.png" />
 						
