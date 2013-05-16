@@ -18248,3 +18248,139 @@ Request URL: /ikv1-home/img/slider/banner1/buttonhere
 Stack Trace:
 #0 /Applications/XAMPP/xamppfiles/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2013-05-16 00:35:34 Error: [MissingTableException] Table mt4_prices for model Mt4Price was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'mt4_prices',
+  'class' => 'Mt4Price',
+  'ds' => 'default',
+)
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(3217): Model->setSource('mt4_prices')
+#1 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(2674): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/ikv1-home/app/Controller/Mt4PricesController.php(104): Model->find('all', Array)
+#3 [internal function]: Mt4PricesController->quote()
+#4 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mt4PricesController), Array)
+#5 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(Mt4PricesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Core/Object.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#8 /Applications/MAMP/htdocs/ikv1-home/app/View/Elements/stockmarket.ctp(99): Object->requestAction('/Mt4Prices/quot...')
+#9 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#11 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(1210): View->_render('/Applications/M...', Array)
+#12 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(413): View->_renderElement('/Applications/M...', Array, Array)
+#13 /Applications/MAMP/htdocs/ikv1-home/app/View/Layouts/umum.ctp(165): View->element('stockmarket')
+#14 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#15 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#16 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(534): View->_render('/Applications/M...')
+#17 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(478): View->renderLayout('', 'umum')
+#18 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(947): View->render('utama', NULL)
+#19 /Applications/MAMP/htdocs/ikv1-home/app/Controller/PagesController.php(74): Controller->render('utama')
+#20 [internal function]: PagesController->display('utama')
+#21 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#22 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#23 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#24 /Applications/MAMP/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#25 {main}
+2013-05-16 00:37:16 Error: [MissingTableException] Table mt4_prices for model Mt4Price was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'mt4_prices',
+  'class' => 'Mt4Price',
+  'ds' => 'default',
+)
+Request URL: /ikv1-home/pages/account-types
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(3217): Model->setSource('mt4_prices')
+#1 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(2674): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/ikv1-home/app/Controller/Mt4PricesController.php(104): Model->find('all', Array)
+#3 [internal function]: Mt4PricesController->quote()
+#4 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mt4PricesController), Array)
+#5 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(Mt4PricesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Core/Object.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#8 /Applications/MAMP/htdocs/ikv1-home/app/View/Elements/stockmarket.ctp(99): Object->requestAction('/Mt4Prices/quot...')
+#9 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#11 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(1210): View->_render('/Applications/M...', Array)
+#12 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(413): View->_renderElement('/Applications/M...', Array, Array)
+#13 /Applications/MAMP/htdocs/ikv1-home/app/View/Layouts/umum.ctp(165): View->element('stockmarket')
+#14 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#15 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#16 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(534): View->_render('/Applications/M...')
+#17 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(478): View->renderLayout('', 'umum')
+#18 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(947): View->render('account-types', NULL)
+#19 /Applications/MAMP/htdocs/ikv1-home/app/Controller/PagesController.php(74): Controller->render('account-types')
+#20 [internal function]: PagesController->display('account-types')
+#21 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#22 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#23 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#24 /Applications/MAMP/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#25 {main}
+2013-05-16 00:41:59 Error: [MissingTableException] Table mt4_prices for model Mt4Price was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'mt4_prices',
+  'class' => 'Mt4Price',
+  'ds' => 'default',
+)
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(3217): Model->setSource('mt4_prices')
+#1 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(2674): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/ikv1-home/app/Controller/Mt4PricesController.php(104): Model->find('all', Array)
+#3 [internal function]: Mt4PricesController->quote()
+#4 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mt4PricesController), Array)
+#5 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(Mt4PricesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Core/Object.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#8 /Applications/MAMP/htdocs/ikv1-home/app/View/Elements/stockmarket.ctp(99): Object->requestAction('/Mt4Prices/quot...')
+#9 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#11 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(1210): View->_render('/Applications/M...', Array)
+#12 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(413): View->_renderElement('/Applications/M...', Array, Array)
+#13 /Applications/MAMP/htdocs/ikv1-home/app/View/Layouts/umum.ctp(165): View->element('stockmarket')
+#14 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#15 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#16 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(534): View->_render('/Applications/M...')
+#17 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(478): View->renderLayout('', 'umum')
+#18 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(947): View->render('utama', NULL)
+#19 /Applications/MAMP/htdocs/ikv1-home/app/Controller/PagesController.php(74): Controller->render('utama')
+#20 [internal function]: PagesController->display('utama')
+#21 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#22 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#23 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#24 /Applications/MAMP/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#25 {main}
+2013-05-16 00:48:27 Error: [MissingTableException] Table mt4_prices for model Mt4Price was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'mt4_prices',
+  'class' => 'Mt4Price',
+  'ds' => 'default',
+)
+Request URL: /ikv1-home/
+Stack Trace:
+#0 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(3217): Model->setSource('mt4_prices')
+#1 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Model/Model.php(2674): Model->getDataSource()
+#2 /Applications/MAMP/htdocs/ikv1-home/app/Controller/Mt4PricesController.php(104): Model->find('all', Array)
+#3 [internal function]: Mt4PricesController->quote()
+#4 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(Mt4PricesController), Array)
+#5 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#6 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(Mt4PricesController), Object(CakeRequest), Object(CakeResponse))
+#7 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Core/Object.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse), Array)
+#8 /Applications/MAMP/htdocs/ikv1-home/app/View/Elements/stockmarket.ctp(99): Object->requestAction('/Mt4Prices/quot...')
+#9 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#10 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#11 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(1210): View->_render('/Applications/M...', Array)
+#12 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(413): View->_renderElement('/Applications/M...', Array, Array)
+#13 /Applications/MAMP/htdocs/ikv1-home/app/View/Layouts/umum.ctp(165): View->element('stockmarket')
+#14 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(947): include('/Applications/M...')
+#15 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(909): View->_evaluate('/Applications/M...', Array)
+#16 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(534): View->_render('/Applications/M...')
+#17 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/View/View.php(478): View->renderLayout('', 'umum')
+#18 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(947): View->render('utama', NULL)
+#19 /Applications/MAMP/htdocs/ikv1-home/app/Controller/PagesController.php(74): Controller->render('utama')
+#20 [internal function]: PagesController->display('utama')
+#21 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Controller/Controller.php(485): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#22 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(186): Controller->invokeAction(Object(CakeRequest))
+#23 /Applications/MAMP/htdocs/ikv1-home/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest), Object(CakeResponse))
+#24 /Applications/MAMP/htdocs/ikv1-home/app/webroot/index.php(102): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#25 {main}
