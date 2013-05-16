@@ -162,7 +162,7 @@
             <?php echo $this->element('main-menu'); ?>
 
         </div>
-<?php echo $this->element('stockmarket'); ?>
+<?php #echo $this->element('stockmarket'); ?>s
     </div>
 </header>
 
