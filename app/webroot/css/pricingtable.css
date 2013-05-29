@@ -41,7 +41,7 @@ TABLE OF CONTENTS
 	font-size: 12px;
 	font-weight: normal;
 	color: #313131;
-	width:960px;
+	width:1024px;
 	-webkit-transition: font-size 0.2s;
 	-moz-transition: font-size 0.2s;
 	-o-transition: font-size 0.2s;
@@ -211,7 +211,7 @@ TABLE OF CONTENTS
 }
 .pricing_four .pricing_column,
 .pricing_four .pricing_column_first { /* 4 columns */
-	width: 239px;
+	width: 195px;
 }
 .pricing_three .pricing_column,
 .pricing_three .pricing_column_first { /* 3 columns */
