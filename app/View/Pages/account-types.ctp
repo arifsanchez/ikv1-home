@@ -48,7 +48,7 @@
                     <li class="pricing_header2"><span>Capital From&nbsp;</span>$1</li>
                     <li class="odd" data-table="Spread">Fixed Spread from 2 pip(s)</li>
                     <li class="even" data-table="Pricing Decimals">(EurUsd) 4 Decimals</li>
-                    <li class="odd" data-table="Leverage">1:500, 1:1000, 1:18888</li>
+                    <li class="odd" data-table="Leverage">1:500, 1:1000, 1:1888</li>
                     <li class="even" data-table="Symbols">Forex</li>
                     <li class="odd" data-table="Minimum Deposit">$1</li>
                     <li class="even" data-table="Recomm. Deposit">$10</li>
