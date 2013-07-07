@@ -113,7 +113,7 @@
                     <li class="pricing_header2"><span>Capital From&nbsp;</span>$10,000</li>
                     <li class="odd" data-table="Spread">Floating, from 0,1 pip(s)</li>
                     <li class="even" data-table="Pricing Decimals">(EurUsd) 5 Decimals</li>
-                    <li class="odd" data-table="Leverage">1:1, 1:10, 1:100, 1:200</li>
+                    <li class="odd" data-table="Leverage">1:1, 1:10, 1:100</li>
                     <li class="even" data-table="Symbols">Forex, Precious Metals &amp; CFDs</li>
                     <li class="odd" data-table="Minimum Deposit">$10,000</li>
                     <li class="even" data-table="Recomm. Deposit">$25,000</li>
