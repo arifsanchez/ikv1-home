@@ -245,7 +245,7 @@
 									    		<div class="row-fluid">
 										    		<div class="span12">
 									    				<p><strong>PT IK Internasional</strong></p>
-														<div>Web : www.iktrust.co.id</div>
+														<div>Web : <a href="www.iktrust.co.id" >www.iktrust.co.id</a></div>
 														<div>Email : hello@iktrust.co.id</div>
 														<div>Contact Person : Mr. Hendra</div>
 														<div>Phone : (+62) 8128 0685 463</div>
@@ -258,7 +258,7 @@
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 									    				<p><strong>Akfx System</strong></p>
-									    				<div>Web :  www.akfx.my</div>
+									    				<div>Web :  <a href="www.akfx.my" >www.akfx.my</a></div>
 														<div>Email : support@akfx.my</div>
 														<div>Contact Person : Mr. Asmadi</div>
 														<div>Phone : +603-27273280</div>
@@ -266,7 +266,7 @@
 
 										    		<div class="span6 well">										    	
 										    			<p><strong>BM Technology Resources</strong><p>
-														<div>Web :  www.bmtrust.biz</div>
+														<div>Web :  <a href="www.bmtrust.biz" >www.bmtrust.biz</a></div>
 														<div>Email : admin@bm-techno.com</div>
 														<div>Contact Person : Mr. Matt</div>
 														<div>Phone : +603-27273283</div>
@@ -277,7 +277,7 @@
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 										    			<p><strong>Dzanine Enterprise</strong></p>
-														<div>Web :  www.iktrustfx.com</div>
+														<div>Web :  <a href="www.iktrustfx.com" >www.iktrustfx.com</a></div>
 														<div>Email : support@iktrustfx.com</div>
 														<div>Contact Person : Mr. Zani</div>
 														<div>Phone : +603-27273281</div>
@@ -285,7 +285,7 @@
 
 										    		<div class="span6 well">
 										    			<p><strong>IKMalaya Worldwide</strong></p>
-														<div>Web : axstreet.com/</div>
+														<div>Web : <a href="www.axstreet.com" >www.axstreet.com</a></div>
 														<div>Email : support@iktrustfxpro.com</div>
 														<div>Contact Person : Mr. Amir</div>
 														<div>Phone : +603-27273284</div>
@@ -295,7 +295,7 @@
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 										    			<p><strong>IK Market Technology</strong></p>
-														<div>Web :  www.iktrust.my</div>
+														<div>Web :  <a href="www.iktrust.my">www.iktrust.my</a></div>
 														<div>Email : support@iktrust.my</div>
 														<div>Contact Person : Mr. Kyairil</div>
 														<div>Phone : +603-27273288</div>
@@ -303,7 +303,7 @@
 
 										    		<div class="span6 well">
 										    			<p><strong>Seri Technology</strong></p>
-														<div>Web :  www.iktrustklcc.com</div>
+														<div>Web :  <a href="www.iktrustklcc.com" >www.iktrustklcc.com</a></div>
 														<div>Email : support@iktrustklcc.com</div>
 														<div>Contact Person : Mr. Lukman</div>
 														<div>Phone : +603-27273282</div>
@@ -315,7 +315,7 @@
 									    		<div class="row-fluid">
 									    		<div class="span12">
 								    				<p><strong>Pandinhaya Merchandise</strong></p>
-													<div>Web :  www.iktrustphilippines.com</div>
+													<div>Web :  <a href="www.iktrustphilippines.com" >www.iktrustphilippines.com</a></div>
 													<div>Email : admin@iktrustphilippines.com</div>
 													<div>Contact Person : Mr. Khairul</div>
 													<div>Phone : +63-9164406765</div>
