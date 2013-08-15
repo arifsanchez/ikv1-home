@@ -285,7 +285,7 @@
 
 										    		<div class="span6 well">
 										    			<p><strong>IKMalaya Worldwide</strong></p>
-														<div>Web :  www.iktrustfxpro.com</div>
+														<div>Web : axstreet.com/</div>
 														<div>Email : support@iktrustfxpro.com</div>
 														<div>Contact Person : Mr. Amir</div>
 														<div>Phone : +603-27273284</div>
