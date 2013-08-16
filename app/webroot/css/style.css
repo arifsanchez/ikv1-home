@@ -189,7 +189,7 @@ button.close {
 .notification {
     background-color: transparent;
     color: #FFFFFF;
-    padding: 28px 35px 8px 14px;
+    padding: 10px 35px 10px 14px;
     text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
 }
 .notification a:last-of-type{
