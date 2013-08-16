@@ -74,78 +74,16 @@
 <section class="message-top">
     <div>
                <div class="notification container">
-               
-               
+
+                  <a class="btn btn-primary pull-right" href="http://live.iktrust.com">Register</a>   
+                  <a class="btn pull-right" href="http://live.iktrust.com">Sign in</a>             
+                 
+                   
                    <!--a href="#myModal" role="button" data-toggle="modal" class="btn btn-large btn-danger pull-right">Sign Up</a-->
 
                    <!--a href="#myModal2" role="button" data-toggle="modal" class="btn btn-large btn-info pull-right">Sign In</a-->
-                   <!-- Registration Form -->
-                   <div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                       <div class="modal-header">
-                           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                           <h3 id="myModalLabel">Sign Up here</h3>
-                       </div>
-                       <div class="modal-body">
-                           <form class="form-horizontal">
-                               <div class="control-group">
-                                   <label class="control-label" for="inputEmail">Email</label>
-                                   <div class="controls">
-                                       <input type="text" id="inputE-mail-new" placeholder="Email">
-                                   </div>
-                               </div>
-                               <div class="control-group">
-                                   <label class="control-label" for="inputPassword">Password</label>
-                                   <div class="controls">
-                                       <input type="password" id="inputPassword-new" placeholder="Password">
-                                   </div>
-                                   <label class="control-label" for="inputPassword">Confirm Password</label>
-                                   <div class="controls">
-                                       <input type="password" id="inputPassword-new-confirm" placeholder="Password">
-                                   </div>
-                               </div>
-                            </form>
-                       </div>
-                       <div class="modal-footer">
-                           <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
-                           <button class="btn btn-danger">Sign Up</button>
-                       </div>
-                   </div>
-                   <!-- Login Form -->
-                   <div id="myModal2" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                       <div class="modal-header">
-                           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                           <h3 id="myModalLabel2">Login Form</h3>
-                       </div>
-                       <div class="modal-body">
-                           <form class="form-horizontal">
-                               <div class="control-group">
-                                   <label class="control-label" for="inputEmail">Email</label>
-                                   <div class="controls">
-                                       <input type="text" id="inputE-mail" placeholder="Email">
-                                   </div>
-                               </div>
-                               <div class="control-group">
-                                   <label class="control-label" for="inputPassword">Password</label>
-                                   <div class="controls">
-                                       <input type="password" id="inputPassword" placeholder="Password">
-                                   </div>
-                               </div>
-                               <div class="control-group">
-                                   <div class="controls">
-                                       <label class="checkbox">
-                                           <input type="checkbox"> Remember me
-                                       </label>
-                                       <button type="submit" class="btn">Sign in</button>
-                                   </div>
-                               </div>
-                           </form>
-                       </div>
-                       <div class="modal-footer">
-                           <button class="btn" data-dismiss="modal" aria-hidden="true">Cancel</button>
-                           <button class="btn btn-danger">Sign In</button>
-                       </div>
-                   </div>
-        </div>
+               
+               </div>
     </div>
 </section>
 <header id="header">
