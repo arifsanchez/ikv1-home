@@ -22,6 +22,7 @@
       echo $this->Html->css('prettyPhoto.css');
       echo $this->Html->css('layerslider.css');
       echo $this->Html->css('skin.css');
+      echo $this->Html->css('button.css');
       echo $this->Html->script('jquery.min.js');
       echo $this->Html->script('bootstrap.min.js');
       echo $this->Html->script('jquery.easing.1.3.js');
@@ -75,9 +76,11 @@
     <div>
                <div class="notification container">
 
-                  <a class="btn btn-primary pull-right" href="http://live.iktrust.com">Register</a>   
-                  <a class="btn pull-right" href="http://live.iktrust.com">Sign in</a>             
-                 
+               
+                      <a href="http://live.iktrust.com" class="custombtn five pull-right">Login IKtrust Cabinet </a>
+
+           
+                                   
                    
                    <!--a href="#myModal" role="button" data-toggle="modal" class="btn btn-large btn-danger pull-right">Sign Up</a-->
 
