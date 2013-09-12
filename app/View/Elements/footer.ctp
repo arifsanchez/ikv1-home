@@ -9,14 +9,20 @@
 
 <p style="font-size:12px; text-align:center;">
 <strong>
-© Copyright 2012 . All Rights Reserved . IK Trust Capital Market Corporation Limited . Secured & Trusted Regulated Broker .
+© Copyright 2012 - <?php echo date('Y'); ?>. All Rights Reserved . IK Financial Market Corp . Secured & Trusted Brokerage Firm .
 <br>
-New Zealand Company Reg. No. 3851316
+International Business Companies registration No. 17443.
 </strong>
 <p>
-Notice : Trading foreign exchange on margin carries high potential rewards but also high potential risks that may not be suitable for all investors. Before deciding to trade foreign exchange, you should carefully consider your investment objectives, level of experience and risk appetite. Past performance is not indicative of future results, which can vary due to market volatility. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading and seek advice from an independent financial advisor if you have any doubts.
-<br>
-<br>
+<b>Risk Warning :</b> Trading foreign exchange on margin carries high potential rewards but also high potential risks that may not be suitable for all investors. Before deciding to trade foreign exchange, you should carefully consider your investment objectives, level of experience and risk appetite. Past performance is not indicative of future results, which can vary due to market volatility. The possibility exists that you could sustain a loss of some or all of your initial investment and therefore you should not invest money that you cannot afford to lose. You should be aware of all the risks associated with foreign exchange trading and seek advice from an independent financial advisor if you have any doubts.
+</p>
+<p>
+Contracts for Difference (‘CFDs’) are complex financial products that are traded on margin. Trading CFDs carries a high level of risk since leverage can work both to your advantage and disadvantage. As a result, CFDs may not be suitable for all investors because you may lose all your invested capital. You should not risk more than you are prepared to lose. Before deciding to trade, you need to ensure that you understand the risks involved taking into account your investment objectives and level of experience. Past performance of CFDs is not a reliable indicator of future results. Most CFDs have no set maturity date. Hence, a CFD position matures on the date you choose to close an existing open position. Seek independent advice, if necessary. Please contact our Expert Account Manager.
+</p>
+<p>
+<b>Corporate Info :</b> IK Trust Capital Market Corporation is a direct operating subsidiary of IK Financial Market Corp. IK Trust Capital Market Corporation do not offer Forex &amp; Contracts for Difference trading to residents of certain jurisdictions such as United States of America , Islamic Republic of Iran and country listed on our watch list.
+</p>
+<p>
 Any opinions, news, research, analyses, prices or other information contained on this website or linked to from this website are provided as general market commentary and do not constitute investment advice. IK Trust does not accept liability for any loss or damage, including without limitation to, any loss of profit, which may arise directly or indirectly from use of or reliance on such information.
 </p>
 

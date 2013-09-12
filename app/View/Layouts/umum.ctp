@@ -10,7 +10,7 @@
     <link rel="icon" href="http://iktrust.com/img/favicon.png" type="image/png">
     <link rel="shortcut icon" href="http://iktrust.com/img/favicon.png" type="image/png" />
     <meta name="google-site-verification" content="N2qGggHrf0WVxXtNgrF54jL6GB8W49MYLaqE7MN-Ir4" />
-    <title>IK Trust | Forex | Forex Broker</title>
+    <title>IK Trust | Forex | Currency (Foreign Exchange) Trading | Online Forex Broker</title>
   
 
     <?php 
@@ -50,7 +50,7 @@
 
     echo $this->Html->meta(
         'description',
-        'Register today for a FX, CFD, Indices & Commodities trading and Asset Management with Islamic Accounts'
+        'IK Trust is an Forex, Indices & Commodities brokerage firm with Islamic Accounts and Syariah Compliance trading platform.'
     );
   ?>
   <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
@@ -77,7 +77,7 @@
                <div class="notification container">
 
                
-                      <a href="http://live.iktrust.com" class="custombtn five pull-right">Login IKtrust Cabinet </a>
+                      <a href="https://live.iktrust.com" class="custombtn five pull-right">Client Dashboard </a>
 
            
                                    
@@ -95,7 +95,7 @@
         
             <div class="span3 logo">
                 <?php echo $this->Html->image("main-logo.png", array(
-    "alt" => "IK Trust Capital Market Corporation Ltd.",
+    "alt" => "IK Trust",
     'url' => array('controller' => '/', 'action' => '/')
 ));?>
             </div>
