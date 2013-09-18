@@ -4,7 +4,8 @@
         	<p style="text-align:center;">
                 <?php echo $this->Html->link('LEGAL INFORMATION', array('controller' => 'pages', 'action' => 'legal_info'));?>&nbsp;|&nbsp;
                 <?php echo $this->Html->link('PRIVACY POLICY', array('controller' => 'pages', 'action' => 'privacy_policy'));?>&nbsp;|&nbsp;
-                <?php echo $this->Html->link('RISK DISCLOSURE', array('controller' => 'pages', 'action' => 'risk_disclosure'));?> 
+                <?php echo $this->Html->link('RISK DISCLOSURE', array('controller' => 'pages', 'action' => 'risk_disclosure'));?>&nbsp;|&nbsp;
+                <?php echo $this->Html->link('AML POLICY', array('controller' => 'pages', 'action' => 'aml_policy'));?> 
 	        </p>
 
 <p style="font-size:12px; text-align:center;">
