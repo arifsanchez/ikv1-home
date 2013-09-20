@@ -258,8 +258,8 @@
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
 									    				<p><strong>Akfx System</strong></p>
-									    				<div>Web :  <a href="http://www.akfx.my" >www.akfx.my</a></div>
-														<div>Email : support@akfx.my</div>
+									    				<div>Web :  <a href="http://www.gainfx.my" >www.gainfx.my</a></div>
+														<div>Email : support@gainfx.my</div>
 														<div>Contact Person : Mr. Asmadi</div>
 														<div>Phone : +603-27273280</div>
 										    		</div>
