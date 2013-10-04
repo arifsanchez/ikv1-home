@@ -15,7 +15,7 @@
       
 
        <div class="span12">
-            <h2> MASTER INTRODUCING BROKER (MIB) </h2>
+            <h2>MASTER INTRODUCING BROKER (MIB)</h2>
 				<p>Our partnership programs are set on offering you a unique package of benefits that have yet to be seen elsewhere on the forex scene and are much anticipated in the industry. The programs offered will cover an array of partner types including Introducers Brokers & Affiliates. Each program opens a window of opportunity for one to become part of one of the world's most significant financial markets, and each has been developed with the intention of perfectly matching the needs of different partner types.</p>
 
 				<h2>WHY BECOME MIB ?</h2>

@@ -47,7 +47,7 @@
 						    )); ?>
 						</div>
 						
-						<img class="iphone4" src="img/slider/banner3/mindmap.png" />
+						<img class="iphone4" src="img/slider/banner3/mindmaps.png" />
 						
 					</li>
 					<li>
@@ -58,7 +58,7 @@
 								<img src="img/slider/banner1/buttonhere.png" width="77%">
 							</a>
 						</div>
-						<img width="60%" class="iphone2" src="img/slider/banner4/mercs-1.png" />
+						<img width="59%" class="iphone2" src="img/slider/banner4/mercs-1.png" />
 								
 					</li>
 				</ul>
