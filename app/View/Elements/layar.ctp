@@ -37,15 +37,29 @@
 					</li>
 					<li>
 						
-						<img class="ipad" src="img/slider/banner3/bannermain.png" />
+						<img class="ipad" src="img/slider/banner3/mibbanner.png" />
 						
-						<div class="slide3">
-							<a href="#">
-								<img src="img/slider/banner1/buttonhere.png" width="77%">
-							</a>						</div>
+						<div class="slide3" style="padding-left:50px;top:180px;">
+							<?php echo $this->Html->image("slider/banner1/formoreinfo.png", array(
+						    "alt" => "click here",
+						    'style' => "width:60%",
+						    'url' => array('controller' => 'pages', 'action' => 'mib',)
+						    )); ?>
+						</div>
 						
 						<img class="iphone4" src="img/slider/banner3/mindmap.png" />
 						
+					</li>
+					<li>
+						<img width="52%" class="ipad" src="img/slider/banner4/mercs-2.png" />
+
+						<div class="slide3" style="top:240px;left:170px">
+							<a href="#">
+								<img src="img/slider/banner1/buttonhere.png" width="77%">
+							</a>
+						</div>
+						<img width="60%" class="iphone2" src="img/slider/banner4/mercs-1.png" />
+								
 					</li>
 				</ul>
 

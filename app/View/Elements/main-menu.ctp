@@ -52,7 +52,8 @@
             </ul>
         </li>
         -->
-        <li class="current"><a href="#">Company</a>
+        <!--untuk menu active link, letakkan class = "current" -->
+        <li><a href="#">Company</a> 
             <ul>
                 <li><?php echo $this->Html->link('About Us', array('controller'=>'pages','action' => 'about_us'));?></li>
             </ul>
@@ -62,6 +63,12 @@
                 <li><?php echo $this->Html->link('Account Types', array('controller'=>'pages','action' => 'account-types'));?></li>
                 <li><?php echo $this->Html->link('Trading Platform', array('controller'=>'pages','action' => 'trading_platform'));?></li>
                 <li><?php echo $this->Html->link('Instruments', array('controller'=>'pages','action' => 'instruments'));?></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#"><span class="name">Partnership</span></a>
+            <ul>
+                <li><?php echo $this->Html->link('Master Introducing Brokers (MIB)', array('controller'=>'pages','action' => 'mib'));?></li>
             </ul>
         </li>
         <li>

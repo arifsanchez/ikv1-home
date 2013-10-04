@@ -1,8 +1,8 @@
 <div class="body">    
       <form action="" id="sky-form" class="sky-form" />
-        <header>Checkout form</header>
+        <header><?php echo $this->Html->image('logologin.png', array('class' => 'floatleft', 'alt' => 'logo iktrust')); ?><strong>IK TRUST Trading Account Registration</strong></header>
         
-        <fieldset>          
+        <fieldset>   <label class="label labelheader">Trading Account</label>   
           <div class="row">
             <section class="col col-6">
               <label class="input">

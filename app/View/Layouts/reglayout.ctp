@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html>
   <head>
-    <title>Sky Forms Pro</title>
+    <title>Account Register</title>
     
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="css/regform/demo.css" />
     <link rel="stylesheet" href="css/regform/sky-forms.css" />
     <link rel="stylesheet" href="css/regform/sky-forms-purple.css" />
+    <link rel="stylesheet" href="css/regform/add-on.css" />
     <!--[if lt IE 9]>
       <link rel="stylesheet" href="css/regform/sky-forms-ie8.css">
     <![endif]-->

@@ -1,0 +1,16 @@
+/**/
+/* Custom and add by paihz */
+/**/
+
+
+img.floatleft {
+    float: left;
+    margin-right: 10px;
+    width: 43px;
+    }
+
+ .labelheader{
+ 	font-size: 20px;
+ 	padding-bottom: 13px;
+ 	color: #FF0028;
+ }
