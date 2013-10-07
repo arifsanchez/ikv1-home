@@ -10,10 +10,12 @@
     </ul>
  <div class="row-fluid">
          <div class="span12">
-            <div class="span4">
-              <p></p>
-            </div>
-                <div class="span8">
+                <div class="span6">
+                  <?php 
+                    echo $this->Html->image("slider/banner4/mib.png", array('class' => 'img-rounded', 'alt' => 'cars awesome'));
+                ?>
+                </div>
+                <div class="span6">
                 <?php 
                     echo $this->Html->image("slider/banner4/mercs-1.png", array('class' => 'img-rounded', 'alt' => 'cars awesome'));
                 ?>
@@ -41,7 +43,7 @@
         
     </div>
     
-     <div class="row highlights"><h3>Be our MIB now by emailing to <a href="mailto:partnership@iktrust.com">partnership@iktrust.com</a></h3>
+     <div class="row-fluid"><h3>Be our MIB now by emailing to <a href="mailto:partnership@iktrust.com">partnership@iktrust.com</a></h3>
     </div>
    
 
