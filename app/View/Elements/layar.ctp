@@ -51,14 +51,14 @@
 						
 					</li>
 					<li>
-						<img width="52%" class="ipad" src="img/slider/banner4/mercs-2.png" />
+						<img width="55%" class="ipad" src="img/slider/banner4/mib.png" />
 
-						<div class="slide3" style="top:240px;left:170px">
+						<div class="slide3" style="top:248px;left:189px">
 							<a href="#">
 								<img src="img/slider/banner1/buttonhere.png" width="77%">
 							</a>
 						</div>
-						<img width="59%" class="iphone2" src="img/slider/banner4/mercs-1.png" />
+						<img width="54%" class="iphone2" src="img/slider/banner4/mercs-1.png" />
 								
 					</li>
 				</ul>

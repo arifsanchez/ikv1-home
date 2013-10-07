@@ -652,8 +652,8 @@ table {
   z-index: 3;
 }
 #sequence .animate-in .iphone2 {
-  left: 400px;
-  top: 80px;
+  left: 430px;
+  top: 61px;
   -webkit-transition-duration: 2.5s;
   -moz-transition-duration: 2.0s;
   -ms-transition-duration: 2.0s;
