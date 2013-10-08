@@ -45,7 +45,7 @@
 						</li>
 						<li>
 							<a href="#contact_tab5" data-toggle="tab">
-							Introducing Broker (IB)
+							Master Introducing Broker <small>(MIB)</small>
 							</a>
 						</li>
 				    </ul>
@@ -53,10 +53,10 @@
 					<div class="tab-content">
 				    	<div class="tab-pane active" id="contact_tab1">
 				    		<p>
-				    			<div style="font-size: 24px;">
+				    			<span style="font-size: 24px;">
 									<i class="icon-globe icon-large"></i>
-									Locate Us
-								</div>
+									&nbsp; Locate Us
+								</span>
 						    </p>
 
 							<div class="row-fluid">
@@ -200,6 +200,18 @@
 									    <ul class="nav nav-tabs">
 									    	
 									    	<li class="active">
+									    		<a href="#state_malay" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/malaysia.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Malaysia</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
+									    	</li>
+									    	<li>
 									    		<a href="#state_indo" data-toggle="tab" class="pull-left">
 								    			<div class="media">
 										            <?php 
@@ -212,20 +224,8 @@
 									    		</a>
 									    	</li>
 
-									    	<li>
-									    		<a href="#state_malay" data-toggle="tab" class="pull-left">
-								    			<div class="media">
-										            <?php 
-														echo $this->Html->image("flag_icon/malaysia.png", array('height' => '', 'width' => '30px'));
-										            ?>
-										          	<div class="media-body">
-										            	<strong><span>Malaysia</span></strong>
-										          	</div>
-										        </div>
-									    		</a>
-									    	</li>
 
-									    	<li>
+									    	<!--li>
 									    		<a href="#state_philip" data-toggle="tab" class="pull-left">
 								    			<div class="media">
 										            <?php 
@@ -237,27 +237,17 @@
 										        </div>
 									    		</a>
 
-									    	</li>
+									    	</li-->
 									    </ul>
 
 									    <div class="tab-content">
-									    	<div class="tab-pane active" id="state_indo">
-									    		<div class="row-fluid">
-										    		<div class="span12">
-									    				<p><strong>PT IK Internasional</strong></p>
-														<div>Web : <a href="http://www.iktrust.co.id" >www.iktrust.co.id</a></div>
-														<div>Email : hello@iktrust.co.id</div>
-														<div>Contact Person : Mr. Hendra</div>
-														<div>Phone : (+62) 8128 0685 463</div>
-										    		</div>
-									    		</div>
-									    	</div>
+									    
 
-									    	<div class="tab-pane" id="state_malay">
+									    	<div class="tab-pane active" id="state_malay">
 									    		
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
-									    				<p><strong>Akfx System</strong></p>
+									    				<p><strong>GainFX System</strong></p>
 									    				<div>Web :  <a href="http://www.gainfx.my" >www.gainfx.my</a></div>
 														<div>Email : support@gainfx.my</div>
 														<div>Contact Person : Mr. Asmadi</div>
@@ -267,7 +257,7 @@
 										    		<div class="span6 well">										    	
 										    			<p><strong>BM Technology Resources</strong><p>
 														<div>Web :  <a href="http://www.bmtrust.biz" >www.bmtrust.biz</a></div>
-														<div>Email : admin@bm-techno.com</div>
+														<div>Email : support@bmtrust.biz</div>
 														<div>Contact Person : Mr. Matt</div>
 														<div>Phone : +603-27273283</div>
 
@@ -276,7 +266,7 @@
 
 									    		<div class="row-fluid">
 									    			<div class="span6 well">
-										    			<p><strong>Dzanine Enterprise</strong></p>
+										    			<p><strong>IKTrust FX Malaysia</strong></p>
 														<div>Web :  <a href="http://www.iktrustfx.com" >www.iktrustfx.com</a></div>
 														<div>Email : support@iktrustfx.com</div>
 														<div>Contact Person : Mr. Zani</div>
@@ -284,7 +274,7 @@
 										    		</div>
 
 										    		<div class="span6 well">
-										    			<p><strong>IKMalaya Worldwide</strong></p>
+										    			<p><strong>AX Street</strong></p>
 														<div>Web : <a href="http://www.axstreet.com" >www.axstreet.com</a></div>
 														<div>Email : support@axstreet.com</div>
 														<div>Contact Person : Mr. Amir</div>
@@ -302,16 +292,26 @@
 										    		</div>
 
 										    		<div class="span6 well">
-										    			<p><strong>Seri Technology</strong></p>
-														<div>Web :  <a href="http://www.iktrustklcc.com" >www.iktrustklcc.com</a></div>
-														<div>Email : support@iktrustklcc.com</div>
-														<div>Contact Person : Mr. Lukman</div>
-														<div>Phone : +603-27273282</div>
+										    			<p><strong>Xcellent FX</strong></p>
+														<div>Web :  <a href="http://www.xcellentfx.com" >www.xcellentfx.com</a></div>
+														<div>Email : support@xcellentfx.com</div>
+														<div>Contact Person : Mr. Hilal</div>
+														<div>Phone : +603-27273287</div>
 										    		</div>	
 									    		</div>
 									    	</div>
-
-									    	<div class="tab-pane" id="state_philip">
+                                            	<div class="tab-pane" id="state_indo">
+									    		<div class="row-fluid">
+										    		<div class="span12">
+									    				<p><strong>PT IK Internasional</strong></p>
+														<div>Web : <a href="http://www.iktrust.co.id" >www.iktrust.co.id</a></div>
+														<div>Email : hello@iktrust.co.id</div>
+														<div>Contact Person : Mr. Hendra</div>
+														<div>Phone : (+62) 8128 0685 463</div>
+										    		</div>
+									    		</div>
+									    	</div>
+									    	<!--div class="tab-pane" id="state_philip">
 									    		<div class="row-fluid">
 									    		<div class="span12">
 								    				<p><strong>Pandinhaya Merchandise</strong></p>
@@ -321,7 +321,7 @@
 													<div>Phone : +63-9164406765</div>
 									    		</div>
 									    		</div>
-									    	</div>
+									    	</div-->
 									    </div>
 								    </div>
 					    		</div>
@@ -341,4 +341,3 @@
 		</div>
 	</section>
 </div>   
-

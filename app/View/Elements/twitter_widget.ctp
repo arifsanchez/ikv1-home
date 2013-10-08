@@ -4,26 +4,11 @@
 
 <!--twitter -->
 <section id="twitter-sidebar">
-	<div style="font-size: 24px;">
+	<span style="font-size: 24px;">
 		<i class="icon-twitter icon-large"></i>
-		Twitter
-	</div>
-    <div class="twitter"></div>
-    <script type="text/javascript">
-        $(document).ready(function(){
-            //twitter
-            $(".twitter").tweet({
-                join_text: "auto",
-                username: "iktrust",
-                avatar_size:40,
-                count:<?php echo $tweet_count; ?>,
-                auto_join_text_default: "we said,",
-                auto_join_text_ed: "we",
-                auto_join_text_ing: "we were",
-                auto_join_text_reply: "we replied",
-                auto_join_text_url: "we were checking out",
-                loading_text: "loading tweets..."
-            });
-        });
-    </script>
+		&nbsp; Twitter
+	</span>
+    <a class="twitter-timeline"  href="https://twitter.com/IKTrust"  data-widget-id="387166174774960128">Tweets by @IKTrust</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 </section>

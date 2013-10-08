@@ -806,8 +806,8 @@ table {
   transform: scale(0.9);
 }
 #sequence .animate-in .iphone3 {
-  left: 500px;
-  top: 30px;
+  left: 510px;
+  top: 1px;
   -webkit-transition-duration: 2s;
   -moz-transition-duration: 2s;
   -ms-transition-duration: 2s;

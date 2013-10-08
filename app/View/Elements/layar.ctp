@@ -32,7 +32,7 @@
 					</li>
 					<li>
 						<img class="ipad" src="img/slider/banner2/frank.png" />
-						<img class="iphone2" src="img/slider/banner2/header.png" />
+						<img width="38%"class="iphone3" src="img/slider/banner2/frank2.png" />
 								
 					</li>
 					<li>
