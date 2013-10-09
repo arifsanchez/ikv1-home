@@ -107,12 +107,12 @@
          </div>
            <div class="span2"> 
             <div class="hoveritem boxs">
-              <a class="link" href="http://www.iktrust.my">
+              <a class="link" href="http://www.iktrust.co.id">
                 <div class="hovercontent">
-                  <h1>www.iktrust.my</h1>
+                  <h1>www.iktrust.co.id</h1>
                   <h3>IK Market Technology</h3>
                 </div>
-               <img src="../img/logomib/iktrustmy.png" />
+               <img src="../img/logomib/ikindo.png" />
               </a>
             </div>
          </div>

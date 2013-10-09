@@ -48,6 +48,11 @@
 							Master Introducing Broker <small>(MIB)</small>
 							</a>
 						</li>
+						<li>
+							<a href="#contact_tab6" data-toggle="tab">
+							Country Exchanger
+							</a>
+						</li>
 				    </ul>
 
 					<div class="tab-content">
@@ -190,9 +195,106 @@
 								</div>
 							</div>
 					    </div>
+					    <div class="tab-pane" id="contact_tab6">
+					    	<h4>Country Exchanger</h4>
+					    	<div class="row-fluid">
+					    		<div class="span12 well">
+							    	<div class="tabbable tabs-right"> 
+      									  <ul class="nav nav-tabs">
+									    	
+									    	<li class="active">
+									    		<a href="#mas" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/malaysia.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Malaysia</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
+									    	</li>
+									    	<li>
+									    		<a href="#ind" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/indonesia.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Indonesia</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
+									    	</li>
+
+
+									    	<li>
+									    		<a href="#php" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/philipines.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Philipines</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
+
+									    	</li>
+
+									    	<li>
+									    		<a href="#thai" data-toggle="tab" class="pull-left">
+								    			<div class="media">
+										            <?php 
+														echo $this->Html->image("flag_icon/thailand.png", array('height' => '', 'width' => '30px'));
+										            ?>
+										          	<div class="media-body">
+										            	<strong><span>Thailand</span></strong>
+										          	</div>
+										        </div>
+									    		</a>
+
+									    	</li>
+									    </ul>
+									     <div class="tab-content">
+									     	    <div class="tab-pane" id="mas">
+										    		<div class="row-fluid">
+											    		<div class="span12">
+										    				<p><strong>Coming soon..</strong></p>
+											    		</div>
+										    		</div>
+									    	    </div>
+									    	     <div class="tab-pane" id="ind">
+										    		<div class="row-fluid">
+											    		<div class="span12">
+										    				<p><strong>Coming soon..</strong></p>
+											    		</div>
+										    		</div>
+									    	    </div>
+									    	     <div class="tab-pane" id="php">
+										    		<div class="row-fluid">
+											    		<div class="span12">
+										    				<p><strong>Coming soon..</strong></p>
+											    		</div>
+										    		</div>
+									    	    </div>
+									    	     <div class="tab-pane" id="thai">
+										    		<div class="row-fluid">
+											    		<div class="span12">
+										    				<p><strong>Coming soon..</strong></p>
+															
+											    		</div>
+										    		</div>
+									    	    </div>
+
+									     </div>
+							        </div>
+								</div>
+							</div>						
+					    </div>
 
 					    <div class="tab-pane" id="contact_tab5">
-					    	<h4>Broker & LOCAL EXCHANGER</h4>
+					    	<h4>Master Introducing Broker (MIB)</h4>
 					    	
 					    	<div class="row-fluid">
 					    		<div class="span12">
@@ -300,7 +402,7 @@
 										    		</div>	
 									    		</div>
 									    	</div>
-                                            	<div class="tab-pane" id="state_indo">
+                                            <div class="tab-pane" id="state_indo">
 									    		<div class="row-fluid">
 										    		<div class="span12">
 									    				<p><strong>PT IK Internasional</strong></p>
