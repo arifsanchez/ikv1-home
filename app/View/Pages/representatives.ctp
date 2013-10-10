@@ -59,8 +59,8 @@
 				    	<div class="tab-pane active" id="contact_tab1">
 				    		<p>
 				    			<span style="font-size: 24px;">
-									<i class="icon-globe icon-large"></i>
-									&nbsp; Locate Us
+									
+									Locate Us
 								</span>
 						    </p>
 
@@ -68,16 +68,14 @@
 								<div class="span12 well">
 								    <address>
 								    <p>
-				                        <strong>IK TRUST CAPITAL MARKET CORPORATION Ltd.</strong>
+				                        <strong>IK FINANCIAL MARKET CORP.</strong>
 									</p>
 								    </address>
 
 					                <address>								
-					                	New Zealand Business Registration No.3851316
-										300 Richmond Road  Grey Lynn,
-										Auckland 1021, New Zealand.
+					                	<p>1 Northumberland Avenue Trafalgar Square London,<br/> WC2N 5BW United Kingdom.</p>
 					            		<div>
-					            			<abbr title="Phone"><strong>Contact No. :</strong></abbr> (+64) 9352 2046
+					            			<abbr title="Phone"><strong>Contact No. :</strong></abbr>  +44 20 0333 1513
 					                   	</div>
 					                   	<div>
 					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.com
@@ -133,6 +131,20 @@
 					                    </div>
 							    	</p>
 					    		</div>
+					    	</div>
+					    	<hr>
+					    	<div class="row-fluid">
+					    		<div class="span6 well">
+					    			<h5>Operation Headquarters</h5>
+1 Northumberland Avenue Trafalgar Square London, WC2N 5BW 
+United Kingdom
+
+					    	    </div>
+					    	    <div class="span6 well">
+					<h5>Legal Department Mailing Address</h5>
+340 S LEMON AVE #8555, WALNUT, CA 91789
+United States America
+					    	    </div>
 					    	</div>
 				    		</p>
 					    </div>
