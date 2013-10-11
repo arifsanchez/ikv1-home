@@ -77,7 +77,7 @@
                <div class="notification container">
 
                
-                      <a href="https://live.iktrust.com" class="custombtn five pull-right">Client Dashboard </a>
+                      <a href="https://live.iktrust.com" class="custombtn five pull-right"><i class="icon-dashboard"></i> Dashboard </a>
 
            
                                    

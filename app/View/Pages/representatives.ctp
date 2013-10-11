@@ -13,9 +13,7 @@
 	    <article class="breadcrumb">
 	    	<h1>IK Trust Support will be there for you</h1>
 			<p>
-				Why don't you try
-				<a href="#">submitting a new ticket</a>
-				to test out our new helpdesk?
+				If you have any questions, please feel free to contact our Customer Support Dept. via LiveChat or e-mail: support@iktrust.com  <a href="http://support.iktrust.com."><span class="label label-info">Email Now</span></a>
 			</p>
 		</article>
 	
@@ -25,7 +23,7 @@
 				    <ul class="nav nav-tabs">
 				    	<li class="active">
 				    		<a href="#contact_tab1" data-toggle="tab">
-				    		General Customer Inquiries
+				    		Worldwide Presence 
 				    		</a>
 				    	</li>
 				    	<li>
@@ -50,7 +48,7 @@
 						</li>
 						<li>
 							<a href="#contact_tab6" data-toggle="tab">
-							Country Exchanger
+							Country Local Exchanger
 							</a>
 						</li>
 				    </ul>
@@ -59,8 +57,7 @@
 				    	<div class="tab-pane active" id="contact_tab1">
 				    		<p>
 				    			<span style="font-size: 24px;">
-									
-									Locate Us
+									Corporate Presence
 								</span>
 						    </p>
 
@@ -74,22 +71,20 @@
 
 					                <address>								
 					                	<p>1 Northumberland Avenue Trafalgar Square London,<br/> WC2N 5BW United Kingdom.</p>
-					            		<div>
-					            			<abbr title="Phone"><strong>Contact No. :</strong></abbr>  +44 20 0333 1513
-					                   	</div>
+					            		
 					                   	<div>
 					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.com
 					                    </div>
 					                    <div>
-					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> support@iktrust.com
+					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> support@iktrust.com <a href="http://support.iktrust.com."><span class="label label-info">Email Now</span></a>
 					                    </div>
 				                     </address> 
 			                    </div>
 			                </div>
 
-		                    <hr>
+		                   
 		                    <div class="row-fluid">
-		                     	<h3>REGIONAL OFFICES</h3>
+		                     	<h3>INTERNATIONAL OFFICES</h3>
 						    </div>
 
 					       	<p>
@@ -97,15 +92,14 @@
 					    		<div class="span6 well">
 					    			<p>
 										<strong>NEW ZEALAND - Auckland</strong>
-										<div>Level 31 Vero Centre, 48 Shortland Street, Auckland 1010,</div>
-										<div>New Zealand.</div>
+										<p>No. 5245, 17B Farnham Street, <br/> 
+										Parnell, Auckland 1052  <br/> 
+										New Zealand.</p>
 									</p>
 									<p>
-									  	<div>
-					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.com
-					                    </div>
+									  	
 					                    <div>
-					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> manager@iktrust.com
+					                    	<abbr title="Email"><strong>Email :</strong></abbr> manager@iktrust.com <a href="http://support.iktrust.com."><span class="label label-info">Email Now</span></a>
 					                    </div>
 									</p>
 					    		</div>
@@ -113,38 +107,54 @@
 					    		<div class="span6 well">
 					    			<p>
 										<strong>INDONESIA - Jakarta</strong>
-										<div>No. 11F, Jln Tanah Abang 1, 10160 Jakarta Pusat,</div>
-										<div>Indonesia.</div>
+										<P>World Trade Centre 2, 18th floor
+											Jl. Jend. Sudirman kav. 29-31
+											Jakarta 12920 <br>
+											Indonesia.</P>
 									</p>
 									<p>
-										<div>
-					                    	<abbr title="Web"><strong>Our Website :</strong></abbr> www.iktrust.co.id
-					                    </div>
+										
+					                   
 					                    <div>
-					                    	<abbr title="Email"><strong>Email Us :</strong></abbr> hello@iktrust.com
+					                    	<abbr title="Email"><strong>Email :</strong></abbr> hello@iktrust.co.id <a href="http://support.iktrust.com."><span class="label label-info">Email Now</span></a>
 					                    </div>
-					                    <div>
-					                    	<abbr title="Web"><strong>Contact Person :</strong></abbr> Mr. Hendra
-					                    </div>
-					                    <div>
-					                    	<abbr title="Email"><strong>Phone :</strong></abbr> (+62) 8128 0685 463
-					                    </div>
+					                    
 							    	</p>
 					    		</div>
 					    	</div>
-					    	<hr>
+					    
 					    	<div class="row-fluid">
-					    		<div class="span6 well">
-					    			<h5>Operation Headquarters</h5>
-1 Northumberland Avenue Trafalgar Square London, WC2N 5BW 
-United Kingdom
-
-					    	    </div>
-					    	    <div class="span6 well">
-					<h5>Legal Department Mailing Address</h5>
-340 S LEMON AVE #8555, WALNUT, CA 91789
-United States America
-					    	    </div>
+						    		<div class="span6 well">
+					    			<p>
+										<strong>MALAYSIA - Kuala Lumpur</strong>
+										<P>No 23, Level 24, Premier Suite, One Mont Kiara<br>
+											No 1, Jalan Kiara, Mont Kiara, 50480<br/> Kuala Lumpur.</P>
+									</p>
+									<p>
+										
+					                   
+					                    <div>
+					                    	<abbr title="Email"><strong>Email :</strong></abbr> support@iktrust.my <a href="http://support.iktrust.com."><span class="label label-info">Email Now</span></a>
+					                    </div>
+					                    
+							    	</p>
+					    		</div>
+									<div class="span6 well">
+					    			<p>
+										<strong>UNITED STATE OF AMERICA - California</strong>
+										<p>340 S Lemon Ave #8555, Walnut, <br/>
+										California 91789, <br/>
+										United States America.</p>
+									</p>
+									<p>
+										
+					                   
+					                    <div>
+					                    	<abbr title="Email"><strong>Email :</strong></abbr> legal@iktrust.com <a href="http://support.iktrust.com."><span class="label label-info">Email Now</span></a>
+					                    </div>
+					                    
+							    	</p>
+					    		</div>
 					    	</div>
 				    		</p>
 					    </div>
@@ -194,11 +204,11 @@ United States America
 							    	<p>
 									<div>
 										<strong>Work schedule :</strong> 
-										9 a.m. - 6 p.m.(GMT +3)
+										9 a.m. - 6 p.m.(GMT +3) (Mon - Fri)
 									</div>
-									<div>
-										(Mon - Fri)
-									</div>
+									
+										
+								
 									<div>
 										<strong>Email :</strong>
 										partnership@iktrust.com
@@ -208,7 +218,7 @@ United States America
 							</div>
 					    </div>
 					    <div class="tab-pane" id="contact_tab6">
-					    	<h4>Country Exchanger</h4>
+					    	<h4>Country Local Exchanger</h4>
 					    	<div class="row-fluid">
 					    		<div class="span12 well">
 							    	<div class="tabbable tabs-right"> 
