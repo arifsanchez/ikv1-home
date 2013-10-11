@@ -45,7 +45,7 @@
     
      <div class="row-fluid"><h3>Be our MIB now by emailing to <a href="mailto:partnership@iktrust.com">partnership@iktrust.com</a></h3>
     </div>
-   <div class="maintitle">Our Successful  Master Introducing Broker
+   <div class="maintitle">Few of Our Successful Master Introducing Broker
 <small>(MIB)</small></div>
     <div class="row-fluid" style="text-align:center;">
           <div class="span2"> 
