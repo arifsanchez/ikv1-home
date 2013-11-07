@@ -51,14 +51,14 @@ $(document).ready(function() {
 
 <div id="owl-demo">
           
-  <div class="item"><?php echo $this->Html->image('carousel/jpmorgan.png', array('alt' => 'CakePHP')); ?></span></div>
-  <div class="item"><?php echo $this->Html->image('carousel/goldman.png', array('alt' => 'CakePHP')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/bnpparibas.png', array('alt' => 'CakePHP')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/creditsuisse.png', array('alt' => 'CakePHP')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/bankofamerica.png', array('alt' => 'CakePHP')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/hsbc.png', array('alt' => 'CakePHP')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/morgan.png', array('alt' => 'CakePHP')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/primefx.png', array('alt' => 'CakePHP')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/jpmorgan.png', array('alt' => 'jpmorgan')); ?></span></div>
+  <div class="item"><?php echo $this->Html->image('carousel/goldman.png', array('alt' => 'goldman')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/bnpparibas.png', array('alt' => 'bnpparibas')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/creditsuisse.png', array('alt' => 'creditsuisse')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/bankofamerica.png', array('alt' => 'bankofamerica')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/hsbc.png', array('alt' => 'hsbc')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/morgan.png', array('alt' => 'morgan')); ?></div>
+  <div class="item"><?php echo $this->Html->image('carousel/primefx.png', array('alt' => 'primefx')); ?></div>
  
 </div>
 </div>
