@@ -1,6 +1,7 @@
 
 <section id="container">
     <?php echo $this->element('newsticker'); ?>
+     <?php echo $this->element('carouselx'); ?>
      <?php echo $this->element('videoperson'); ?>
 </section>
 

@@ -50,7 +50,7 @@
     <div class="row-fluid" style="text-align:center;">
           <div class="span2"> 
             <div class="hoveritem boxs img-rounded">
-              <a class="link" href="http://www.gainfx.my/">
+              <a class="link" target="_blank" href="http://www.gainfx.my/">
                 <div class="hovercontent">
                   <h1>www.gainfx.my</h1>
                   <h3>GainFX System</h3>
@@ -64,7 +64,7 @@
          </div>
              <div class="span2"> 
             <div class="hoveritem boxs img-rounded">
-              <a class="link" href="http://www.bmtrust.biz/">
+              <a class="link" target="_blank" href="http://www.bmtrust.biz/">
                 <div class="hovercontent">
                   <h1>www.bmtrust.biz</h1>
                   <h3>BM Technology Resources</h3>
@@ -79,7 +79,7 @@
         
           <div class="span2"> 
             <div class="hoveritem boxs img-rounded">
-              <a class="link" href="http://www.axstreet.com/">
+              <a class="link" target="_blank" href="http://www.axstreet.com/">
                 <div class="hovercontent">
                   <h1>www.axstreet.com</h1>
                   <h3>AX Street</h3>
@@ -93,7 +93,7 @@
          </div>
          <div class="span2"> 
             <div class="hoveritem boxs img-rounded">
-              <a class="link" href="http://www.iktrustfx.com/">
+              <a class="link" target="_blank" href="http://www.iktrustfx.com/">
                 <div class="hovercontent">
                   <h1>www.iktrustfx.com</h1>
                   <h3>IKTrust FX Malaysia</h3>
@@ -108,7 +108,7 @@
        
          <div class="span2"> 
             <div class="hoveritem boxs img-rounded">
-              <a class="link" href="http://www.xcellentfx.com/">
+              <a class="link" target="_blank" href="http://www.xcellentfx.com/">
                 <div class="hovercontent">
                   <h1>www.xcellentfx.com</h1>
                   <h3>Xcellent FX</h3>
@@ -122,7 +122,7 @@
          </div>
            <div class="span2"> 
             <div class="hoveritem boxs img-rounded">
-              <a class="link" href="http://www.iktrust.co.id">
+              <a class="link" target="_blank" href="http://www.iktrust.co.id">
                 <div class="hovercontent">
                   <h1>www.iktrust.co.id</h1>
                   <h3>IK Market Technology</h3>
