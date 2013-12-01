@@ -1,64 +1,77 @@
-<?php
-echo $this->Html->css('owl.carousel');
-echo $this->Html->script('owl.carousel.min');
-?>
 
-<script type="text/javascript">
-$(document).ready(function() {
- 
-  $("#owl-demo").owlCarousel({
- 
-      autoPlay: 3000, //Set AutoPlay to 3 seconds
- 
-      items : 4,
-      itemsDesktop : [1199,3],
-      itemsDesktopSmall : [979,3]
- 
-  });
- 
-});
+<?php echo $this->Html->script('jquery.bxSlider');?>
 
-</script>
+
 <style type="text/css">
-#owl-demo .item{
-  margin: 8px;
- display: inline-block;
-  padding: 8px;
-  border: 2px solid #B6B6B6;
-  border-radius: 6px;
-  box-shadow:
-    0 2px 1px rgba(0, 0, 0, 0.2), 
-    inset 0 2px 1px rgba(0, 0, 0, 0.2);
-    
-  /* Font styles */
-  text-decoration: none;
-  font-size: 14px;
-  text-transform: uppercase;
-  color: #222;
 
-}
-#owl-demo .item:hover  { border-color: #F12439; }
-#owl-demo .item:active { border-color: #ED2739; }
-#owl-demo .item img{
-  display: block;
-  width: 100%;
-  height: auto;
+/* 
+  jQuery Logo Slider Ticker 
+  by http://webdesignandsuch.com
+  build with code from http://bxslider.com
+*/
+
+
+#slider {
+  list-style:none;
+  padding:0px
 }
 
+.slider-container { 
+  background:#fff; 
+  
+  height:150px; 
+  padding:20px; 
+ 
+}
+
+#slider img { 
+  width:150px; 
+  height:78px; 
+  margin:0px; 
+  display:inline-block ; 
+  margin:20px 0;
+}
+
+#slider li {
+  width:210px;
+}
+
+
+}
 
 </style>
-<div class="row-fluid">
+<!-- slider -->
+  <script type="text/javascript">
+      $(document).ready(function(){
+        $('#slider').bxSlider({
+        ticker: true,
+        tickerSpeed: 8000,
+      tickerHover: true
+      });
+      });
+    </script>
 
-<div id="owl-demo">
-          
-  <div class="item"><?php echo $this->Html->image('carousel/jpmorgan.png', array('alt' => 'jpmorgan')); ?></span></div>
-  <div class="item"><?php echo $this->Html->image('carousel/goldman.png', array('alt' => 'goldman')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/bnpparibas.png', array('alt' => 'bnpparibas')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/creditsuisse.png', array('alt' => 'creditsuisse')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/bankofamerica.png', array('alt' => 'bankofamerica')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/hsbc.png', array('alt' => 'hsbc')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/morgan.png', array('alt' => 'morgan')); ?></div>
-  <div class="item"><?php echo $this->Html->image('carousel/primefx.png', array('alt' => 'primefx')); ?></div>
- 
-</div>
+<div class="row-fluid">
+    <div class="slider-container">
+
+      <ul id="slider">
+              <li><?php echo $this->Html->image('carousel/jpmorgan.png', array('alt' => 'jpmorgan')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/goldman.png', array('alt' => 'goldman')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/bnpparibas.png', array('alt' => 'bnpparibas')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/creditsuisse.png', array('alt' => 'creditsuisse')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/goldman.png', array('alt' => 'goldman')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/bankofamerica.png', array('alt' => 'bankofamerica')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/hsbc.png', array('alt' => 'hsbc')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+              <li><?php echo $this->Html->image('carousel/morgan.png', array('alt' => 'morgan')); ?></li>
+              <li><?php echo $this->Html->image('carousel/liqudityprov.png', array('alt' => 'divider')); ?></li>
+          </ul>
+
+    </div><!-- /slider -->
 </div>

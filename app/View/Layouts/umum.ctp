@@ -7,8 +7,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=100%; initial-scale=1; maximum-scale=1; minimum-scale=1; user-scalable=no;" />
-    <link rel="icon" href="http://iktrust.com/img/favicon.png" type="image/png">
-    <link rel="shortcut icon" href="http://iktrust.com/img/favicon.png" type="image/png" />
+    <link rel="icon" href="http://iktrust.com/img/favicon.ico" type="image/png">
+    <link rel="shortcut icon" href="http://iktrust.com/img/favicon.ico" type="image/png" />
     <meta name="google-site-verification" content="N2qGggHrf0WVxXtNgrF54jL6GB8W49MYLaqE7MN-Ir4" />
     <title>IK Trust | Forex | Currency (Foreign Exchange) Trading | Online Forex Broker</title>
   

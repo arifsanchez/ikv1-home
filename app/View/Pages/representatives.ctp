@@ -127,8 +127,8 @@
 						    		<div class="span6 well">
 					    			<p>
 										<strong>MALAYSIA - Kuala Lumpur</strong>
-										<P>No 23, Level 24, Premier Suite, One Mont Kiara<br>
-											No 1, Jalan Kiara, Mont Kiara, 50480<br/> Kuala Lumpur.</P>
+										<P>Suite 2316, Level 23, Premier Suite,<br>
+											One Mont Kiara, No 1, Jalan Kiara,<br/> Mont Kiara, 50480 Kuala Lumpur.</P>
 									</p>
 									<p>
 										
